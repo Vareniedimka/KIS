@@ -1,0 +1,271 @@
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\MainWindow.baml
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\App.g.cs
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.g.resources
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.exe
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.pdb
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.exe
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.pdb
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovar.baml
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovar.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.exe
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.pdb
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddPocupatel.baml
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovarVS.baml
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddPocupatel.g.cs
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovarVS.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.exe
+F:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.pdb
+F:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\GLP.dll
+F:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\GLP.pdb
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddPocupatel.baml
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovar.baml
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovarVS.baml
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\MainWindow.baml
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddPocupatel.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovar.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovarVS.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\App.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.g.resources
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddSdelka.baml
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddSdelka.g.cs
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddSdelka.baml
+F:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddSdelka.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.exe
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.pdb
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddPocupatel.baml
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddSdelka.baml
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovar.baml
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovarVS.baml
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\MainWindow.baml
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddPocupatel.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddSdelka.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovar.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\AddTovarVS.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\App.g.cs
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.g.resources
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\VRA.Form1.resources
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.exe
+E:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.pdb
+E:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\GLP.dll
+E:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\VRA.Form1.resources
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.exe.manifest
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\Win.application
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.exe.manifest
+J:\универ\Курсовая\приложение\Kursach\Win\obj\x86\Debug\Win.application
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Kursach\Win\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\Win.exe.manifest
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\Win.application
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\Win.exe
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\Win.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\bin\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddPocupatel.baml
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddSdelka.baml
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovar.baml
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovarVS.baml
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.baml
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddPocupatel.g.cs
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddSdelka.g.cs
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovar.g.cs
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovarVS.g.cs
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\App.g.cs
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.g.resources
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\VRA.Form1.resources
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe.manifest
+J:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.application
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.pdb
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddPocupatel.baml
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddSdelka.baml
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovar.baml
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovarVS.baml
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.baml
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddPocupatel.g.cs
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddSdelka.g.cs
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovar.g.cs
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddTovarVS.g.cs
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\App.g.cs
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.g.resources
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\VRA.Form1.resources
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\универ\Курсовая\приложение\Исходный код\Kursach\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\Win.pdb
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\Win.exe.manifest
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\Win.application
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\Win.exe
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\Win.pdb
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.dll
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\GLP.dll
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.pdb
+F:\Содержание CD\Исходный код\Kursach\Win\bin\Debug\GLP.pdb
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddPocupatel.baml
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddSdelka.baml
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddTovar.baml
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddTovarVS.baml
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.baml
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddPocupatel.g.cs
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddSdelka.g.cs
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddTovar.g.cs
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\AddTovarVS.g.cs
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\App.g.cs
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\Win.g.resources
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\VRA.Form1.resources
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe.manifest
+F:\Содержание CD\Исходный код\Kursach\Win\obj\x86\Debug\Win.application
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.pdb
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddPostavhik.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterialPostav.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddZakaz.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddOtpuskSoSklada.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddPostavhik.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterialPostav.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddZakaz.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddOtpuskSoSklada.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\App.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.g.resources
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\VRA.Form1.resources
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterial.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddZapas.baml
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterial.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\AddZapas.g.cs
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\Win.exe.manifest
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\Win.application
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\Win.exe
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\Win.pdb
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.dll
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\GLP.dll
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.pdb
+D:\наш.кис\Исходный код\Kursach\Win\bin\Debug\GLP.pdb
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe.manifest
+D:\наш.кис\Исходный код\Kursach\Win\obj\x86\Debug\Win.application
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.pdb
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\Win.exe.manifest
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\Win.application
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\Win.exe
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\Win.pdb
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.dll
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\GLP.dll
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\ClassLibrary.pdb
+D:\Кис приложение\Исходный код\Kursach\Win\bin\Debug\GLP.pdb
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterial.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterialPostav.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddZakaz.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddOtpuskSoSklada.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddZapas.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddPostavhik.baml
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterial.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddMaterialPostav.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddZakaz.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddOtpuskSoSklada.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\ConnectWin.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\MainWindow.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddZapas.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\AddPostavhik.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\App.g.cs
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win_MarkupCompile.cache
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.g.resources
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\VRA.Form1.resources
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.Properties.Resources.resources
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe.manifest
+D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.application
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.exe
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterial.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterialPostav.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZakaz.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddOtpuskSoSklada.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\MainWindow.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZapas.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddPostavhik.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterial.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterialPostav.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZakaz.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddOtpuskSoSklada.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\MainWindow.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZapas.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddPostavhik.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\App.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win_MarkupCompile.cache
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.g.resources
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\VRA.Form1.resources
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.Properties.Resources.resources
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.exe.manifest
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.application
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.exe
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\ClassLibrary.dll
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\GLP.dll
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\ClassLibrary.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\GLP.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.exe.manifest
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.application
