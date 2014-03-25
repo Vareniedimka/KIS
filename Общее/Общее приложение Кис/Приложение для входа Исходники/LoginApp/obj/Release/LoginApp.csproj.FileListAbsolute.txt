@@ -1,0 +1,13 @@
+D:\C#\LoginApp\LoginApp\bin\Release\LoginApp.exe.config
+D:\C#\LoginApp\LoginApp\bin\Release\LoginApp.exe
+D:\C#\LoginApp\LoginApp\bin\Release\LoginApp.pdb
+D:\C#\LoginApp\LoginApp\obj\Release\LoginApp.csprojResolveAssemblyReference.cache
+D:\C#\LoginApp\LoginApp\obj\Release\MainWindow.baml
+D:\C#\LoginApp\LoginApp\obj\Release\MainWindow.g.cs
+D:\C#\LoginApp\LoginApp\obj\Release\App.g.cs
+D:\C#\LoginApp\LoginApp\obj\Release\LoginApp_MarkupCompile.cache
+D:\C#\LoginApp\LoginApp\obj\Release\LoginApp.g.resources
+D:\C#\LoginApp\LoginApp\obj\Release\LoginApp.Properties.Resources.resources
+D:\C#\LoginApp\LoginApp\obj\Release\LoginApp.csproj.GenerateResource.Cache
+D:\C#\LoginApp\LoginApp\obj\Release\LoginApp.exe
+D:\C#\LoginApp\LoginApp\obj\Release\LoginApp.pdb
