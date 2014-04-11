@@ -1,0 +1,26 @@
+J:\универ\Курсовая\приложение\Kursach\ClassLibrary\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Kursach\ClassLibrary\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Kursach\ClassLibrary\obj\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Kursach\ClassLibrary\obj\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.pdb
+F:\Содержание CD\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.dll
+F:\Содержание CD\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.pdb
+F:\Содержание CD\Исходный код\Kursach\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+F:\Содержание CD\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.dll
+F:\Содержание CD\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\наш.кис\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\наш.кис\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\наш.кис\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\наш.кис\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\наш.кис\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\bin\Debug\ClassLibrary.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\bin\Debug\ClassLibrary.pdb

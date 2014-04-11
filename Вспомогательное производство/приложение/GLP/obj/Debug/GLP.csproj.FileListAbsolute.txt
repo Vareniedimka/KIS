@@ -1,0 +1,57 @@
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll.config
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+E:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll.config
+E:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll
+E:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.pdb
+E:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\ResolveAssemblyReference.cache
+E:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.dll
+E:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+F:\Содержание CD\Исходный код\Kursach\GLP\obj\Debug\ResolveAssemblyReference.cache
+F:\Содержание CD\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+F:\Содержание CD\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+D:\наш.кис\Исходный код\Kursach\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+D:\наш.кис\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+D:\наш.кис\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\ResolveAssemblyReference.cache
+D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+E:\Вспомогательное производство\приложение\GLP\obj\Debug\ResolveAssemblyReference.cache
+E:\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.dll
+E:\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\obj\Debug\ResolveAssemblyReference.cache
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\GLP.dll.config
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\GLP.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\GLP.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\ClassLibrary.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\ClassLibrary.pdb
