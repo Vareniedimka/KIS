@@ -52,3 +52,11 @@ D:\ПЕРСОНАЛ\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
 D:\ПЕРСОНАЛ\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
 D:\ПЕРСОНАЛ\UpravZapas\GLP\obj\Debug\GLP.dll
 D:\ПЕРСОНАЛ\UpravZapas\GLP\obj\Debug\GLP.pdb
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll.config
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.pdb
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.dll
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.pdb

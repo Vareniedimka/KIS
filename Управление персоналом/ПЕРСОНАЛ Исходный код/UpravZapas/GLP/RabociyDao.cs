@@ -86,14 +86,14 @@ namespace GLP
                 {
                     cmd.CommandText = @"UPDATE [Rabociy]
                            SET [Tabeln_nom] = @tab
-                              ,[Zareg_brak] = @stav
+                              ,[Zareg_brak] = @zareg
                               ,[FIO]=@fio
                               WHERE ID_professii=@id
                     ";
 
                     cmd.Parameters.AddWithValue("@tab", item.Tabeln_nom);
                     cmd.Parameters.AddWithValue("@id", item.IDProfesii);
-                    cmd.Parameters.AddWithValue("@zare", item.Zareg_brak);
+                    cmd.Parameters.AddWithValue("@zareg", item.Zareg_brak);
                     cmd.Parameters.AddWithValue("@fio", item.FIO);
 
 

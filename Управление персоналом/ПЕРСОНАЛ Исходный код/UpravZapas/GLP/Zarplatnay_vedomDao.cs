@@ -83,11 +83,11 @@ namespace GLP
                 {
                     cmd.CommandText = @"UPDATE [Zarplatnay_vedom]
                        SET [Zarabotn_Plata] = @zarp
-		                  ,[Tabeln_nom] = @Tab
+		                 
                                          ";
                     cmd.Parameters.AddWithValue("@zarp", item.Zarabotn_Plata);
                 //    cmd.Parameters.AddWithValue("@rasch", item.Raschet_zarabotn_platy);
-                    cmd.Parameters.AddWithValue("@Tab", item.Tabeln_nom);
+                  //  cmd.Parameters.AddWithValue("@Tab", item.Tabeln_nom);
                     
                     cmd.ExecuteNonQuery();
                 }

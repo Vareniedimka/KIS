@@ -23,15 +23,18 @@ namespace Win
         int id;
 
         public AddZarplatnay_vedom()
-        {
+        {  
             Loaded();
             InitializeComponent();
         }
 
         public AddZarplatnay_vedom(Zarplatnay_vedom i)
         {
-            Loaded();
             InitializeComponent();
+            tbZarabotnPl.Text= i.Zarabotn_Plata.ToString();
+            id = i.Zarabotn_Plata;
+            Loaded();
+            
             //tbRaschetZp.Text = i.Raschet_zarabotn_platy.ToString();
 
 
@@ -50,7 +53,8 @@ namespace Win
                 MessageBox.Show("Все поля должны быть заполнены", "Проверка");
                 return;
             }
-
+           
+  
             i.FIO = cbFio.SelectedItem.ToString();
             //i.Raschet_zarabotn_platy = Convert.ToInt32(tbRaschetZp.Text);
             i.Zarabotn_Plata = Convert.ToInt32(tbZarabotnPl.Text);

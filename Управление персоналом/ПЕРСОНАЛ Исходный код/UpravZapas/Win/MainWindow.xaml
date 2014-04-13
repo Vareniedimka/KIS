@@ -57,10 +57,6 @@
             <MenuItem Name="DataBase" Header="База данных">
                 <MenuItem Name="dataBaseS" Header="Настроить соединение с имеющейся БД" Click="bConnect_Click" />
             </MenuItem>
-            <MenuItem Name="Reports" Header="Отчеты">
-                <MenuItem Name="ExelExporterButton" Header="Экспорт таблицы Excel" Click="ExelExporterButton_Click" />
-                <MenuItem Name="HtmlExporterBurron" Header="Экспорт таблицы в html" Click="HtmlExporterButton_Click" />
-            </MenuItem>
             <MenuItem Name = "About" Header="О программе" Click="About_Click"></MenuItem>
         </Menu>
         <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical">

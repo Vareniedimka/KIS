@@ -55,26 +55,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GLP.dll" size="15872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GLP.dll" size="15360">
       <assemblyIdentity name="GLP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>CswtvR18xh/22Va9aKdqsbHBrE0=</dsig:DigestValue>
+        <dsig:DigestValue>YCSOJyHbig+TLcxIkBIJZ/XZico=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Win.exe" size="559616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Win.exe" size="559104">
       <assemblyIdentity name="Win" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>djNXmxzM6ITt2DArR6+2scigjKk=</dsig:DigestValue>
+        <dsig:DigestValue>14WAQpqpBCf2xkFELVm++qWHaUc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
