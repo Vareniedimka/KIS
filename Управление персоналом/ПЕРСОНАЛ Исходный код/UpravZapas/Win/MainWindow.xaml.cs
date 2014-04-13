@@ -49,7 +49,7 @@ namespace Win
                 }
 
             }
-            statusLabel.Content = "Работа с таблицей: РАбочий";
+            statusLabel.Content = "Работа с таблицей: Рабочий";
         }
 
         private void bReload_Click(object sender, RoutedEventArgs e)
@@ -93,7 +93,7 @@ namespace Win
                     {
                         try
                         {
-                            Addprofessii win = new Addprofessii();
+                            Addprofessii win = new Addprofessii(dgProfessii.SelectedItem as Professii);
                             win.ShowDialog();
                             bReload_Click(sender, e);
                         }
@@ -172,7 +172,7 @@ namespace Win
                         {
                             try
                             {
-                                RabociyDao.Delete((dgRabociy.SelectedItem as Rabociy).Tabeln_nom);
+                                RabociyDao.Delete((dgRabociy.SelectedItem as Rabociy));
 
                             }
                             catch (NullReferenceException)
@@ -198,7 +198,7 @@ namespace Win
                         {
                             try
                             {
-                                Zarplatnay_vedomDao.Delete((dgZarplatnay_vedom.SelectedItem as Zarplatnay_vedom).Zarabotn_Plata);
+                                Zarplatnay_vedomDao.Delete((dgZarplatnay_vedom.SelectedItem as Zarplatnay_vedom));
 
                             }
                             catch (NullReferenceException)
@@ -314,7 +314,7 @@ namespace Win
         {
             MessageBox.Show(
 @"Программа создана в рамках Предмета КИС 
-Дата создания 16.03.2014"
+Дата создания 10.04.2014"
             );
         }
 

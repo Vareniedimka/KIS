@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Data.SqlClient;
 using ClassLibrary;
-
+using System.Windows.Forms;
 namespace GLP
 {
     public class RabociyDao
@@ -51,7 +51,8 @@ namespace GLP
         public static void Add(Rabociy item)
         {
             using (var conn = Connect.GetConnect())
-            {
+            try
+               {
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
@@ -73,9 +74,11 @@ namespace GLP
                     cmd.Parameters.AddWithValue("@zareg", item.Zareg_brak);
                     cmd.Parameters.AddWithValue("@FIO", item.FIO);
                     cmd.ExecuteNonQuery();
-                }
+                }}
+                catch{MessageBox.Show("Что то пошло не так и SQL не ответил"); return;}
+                
             }
-        }
+        
 
         public static void Update(Rabociy item)
         {
@@ -84,26 +87,29 @@ namespace GLP
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                    cmd.CommandText = @"UPDATE [Rabociy]
+                    try
+                    {
+
+                        cmd.CommandText = @"UPDATE [Rabociy]
                            SET [Tabeln_nom] = @tab
                               ,[Zareg_brak] = @zareg
                               ,[FIO]=@fio
                               WHERE ID_professii=@id
                     ";
 
-                    cmd.Parameters.AddWithValue("@tab", item.Tabeln_nom);
-                    cmd.Parameters.AddWithValue("@id", item.IDProfesii);
-                    cmd.Parameters.AddWithValue("@zareg", item.Zareg_brak);
-                    cmd.Parameters.AddWithValue("@fio", item.FIO);
-
-
-
-                    cmd.ExecuteNonQuery();
+                        cmd.Parameters.AddWithValue("@tab", item.Tabeln_nom);
+                        cmd.Parameters.AddWithValue("@id", item.IDProfesii);
+                        cmd.Parameters.AddWithValue("@zareg", item.Zareg_brak);
+                        cmd.Parameters.AddWithValue("@fio", item.FIO);
+                        cmd.ExecuteNonQuery();
+                    }
+                    catch { MessageBox.Show("Что то пошло не так и SQL не ответил"); return; }
+                    
                 }
             }
         }
 
-        public static void Delete(int id)
+        public static void Delete(Rabociy item)
         {
             using (var conn = Connect.GetConnect())
             {
@@ -111,7 +117,7 @@ namespace GLP
                 using (var cmd = conn.CreateCommand())
                 {
                     cmd.CommandText = "delete Rabociy  where Tabeln_nom = @id ";
-                    cmd.Parameters.AddWithValue("@id", id);
+                    cmd.Parameters.AddWithValue("@id", item.Tabeln_nom);
                     cmd.ExecuteNonQuery();
                 }
             }

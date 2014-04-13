@@ -102,7 +102,8 @@
                                 <BindingGroup />
                             </Image.BindingGroup>
                         </Image>-->
-                        <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10">Ведомость о зп</TextBlock>
+                        <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10">Ведомость</TextBlock>
+                        <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10">о зарплате</TextBlock>
                     </StackPanel>
                 </Button.Content>
             </Button>

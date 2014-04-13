@@ -29,8 +29,8 @@ namespace Win
         
         public AddRabociy(Rabociy i)
         {
-            Loaded();
 
+            Loaded();
             InitializeComponent();
             tbTabnom.Text = Convert.ToString(i.Tabeln_nom);
             cbNaimprof.SelectedItem = i.IDProfesii;

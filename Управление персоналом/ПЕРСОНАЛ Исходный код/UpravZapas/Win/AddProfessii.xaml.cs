@@ -70,6 +70,7 @@ namespace Win
                 {
                     i.ID_professii = id;
                     ProfessiiDao.Update(i);
+                    Close();
                 }
             }
 

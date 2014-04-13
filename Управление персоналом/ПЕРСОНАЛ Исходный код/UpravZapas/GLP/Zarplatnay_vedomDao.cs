@@ -83,18 +83,19 @@ namespace GLP
                 {
                     cmd.CommandText = @"UPDATE [Zarplatnay_vedom]
                        SET [Zarabotn_Plata] = @zarp
+                        where Tabeln_nom=@tab
 		                 
                                          ";
                     cmd.Parameters.AddWithValue("@zarp", item.Zarabotn_Plata);
                 //    cmd.Parameters.AddWithValue("@rasch", item.Raschet_zarabotn_platy);
-                  //  cmd.Parameters.AddWithValue("@Tab", item.Tabeln_nom);
+                    cmd.Parameters.AddWithValue("@Tab", item.Tabeln_nom);
                     
                     cmd.ExecuteNonQuery();
                 }
             }
         }
         
-        public static void Delete(int id)
+        public static void Delete(Zarplatnay_vedom item)
         {
             using (var conn = Connect.GetConnect())
             {
@@ -102,7 +103,7 @@ namespace GLP
                 using (var cmd = conn.CreateCommand())
                 {
                     cmd.CommandText = "delete [Zarplatnay_vedom] where Tabeln_nom=@id";
-                    cmd.Parameters.AddWithValue("@id", id);
+                    cmd.Parameters.AddWithValue("@id", item.Tabeln_nom);
                     cmd.ExecuteNonQuery();
                 }
             }
