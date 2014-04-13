@@ -1,0 +1,23 @@
+﻿<Window x:Class="Win.AddGraficRabot"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="График работ" Height="342" Width="388" Icon="/Win;component/Images/phppg_3471.png" ResizeMode="NoResize">
+    <Grid Height="272" Width="360">
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,92,50,0" Name="Vnepan_rem" VerticalAlignment="Top" Width="160" KeyDown="tbKolich_KeyDown" />
+        <Label Content="Внеплановый ремонт" Height="28" HorizontalAlignment="Left" Margin="19,90,0,0" Name="label1" VerticalAlignment="Top" />
+        <Button Content="Отмена" Height="23" Margin="0,227,67,0" Name="bCancel" VerticalAlignment="Top" Click="bCancel_Click" HorizontalAlignment="Right" Width="75" />
+        <Button Content="Сохранить" Height="23" HorizontalAlignment="Left" Margin="41,227,0,0" Name="bSave" VerticalAlignment="Top" Width="75" Click="bSave_Click" />
+        <Label Content="Инвентарный номер" Height="25" HorizontalAlignment="Left" Margin="12,10,0,0" x:Name="label5" VerticalAlignment="Top" />
+        <ComboBox HorizontalAlignment="Left" Margin="150,10,0,0" x:Name="Invertatniy_nomer" VerticalAlignment="Top" Width="161"/>
+        <DatePicker x:Name="Date_nach_remont" HorizontalAlignment="Left" Margin="150,41,0,0" VerticalAlignment="Top" Width="161"/>
+        <TextBox x:Name="tbDataOkonchRem" HorizontalAlignment="Left" Height="23" Margin="150,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" KeyDown="tbTimeOtgr_KeyDown"/>
+        <Label Content="Дата начала ремонта" Height="28" HorizontalAlignment="Left" Margin="12,41,0,0" x:Name="lb_Copy" VerticalAlignment="Top" />
+        <Label Content="Дата окончания ремонта" Height="28" HorizontalAlignment="Left" Margin="0,67,0,0" x:Name="lb_Copy1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="150,116,0,0" Name="Plan_proverk_oborud" VerticalAlignment="Top" Width="120" />
+        <Label Content="План проверки" Height="28" HorizontalAlignment="Left" Margin="19,116,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Деталь" Height="28" HorizontalAlignment="Left" Margin="19,138,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,140,90,0" Name="Naimenovanie_det" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="150,169,0,0" Name="Raschetn_koef" VerticalAlignment="Top" Width="120" />
+        <Label Content="Коэффициент" Height="28" HorizontalAlignment="Left" Margin="19,172,0,0" Name="label4" VerticalAlignment="Top" />
+    </Grid>
+</Window>
