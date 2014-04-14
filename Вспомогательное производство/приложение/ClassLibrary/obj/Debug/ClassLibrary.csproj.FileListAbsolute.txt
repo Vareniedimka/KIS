@@ -24,3 +24,8 @@ L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогател�
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\bin\Debug\ClassLibrary.dll
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb

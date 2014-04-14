@@ -259,18 +259,9 @@ namespace Win
         private void ExelExporterButton_Click(object sender, RoutedEventArgs e)
         {                             
             }
-
-            
-
-        private void dgZapas_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-        
-        }
-
-         
-
-
-        
+                 
+                     
+               
 
         private void About_Click(object sender, RoutedEventArgs e)
         {
@@ -287,13 +278,13 @@ namespace Win
         }
         private void bGraficRabot_Click(object sender, RoutedEventArgs e)
         {
-            thisGrid ="bGraficRabot";
+            thisGrid ="dgGraficRabot";
             izmGrid();
 
         }
         private void bStanok_na_proizv_Click(object sender, RoutedEventArgs e)
         {
-            thisGrid =  "bStanok_na_proizv" ;
+            thisGrid =  "dgStanok_na_proizv" ;
             izmGrid();
         }
         

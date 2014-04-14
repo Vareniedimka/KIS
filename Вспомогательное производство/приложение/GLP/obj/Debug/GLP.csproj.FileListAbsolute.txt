@@ -55,3 +55,11 @@ L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогател�
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\GLP.pdb
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\ClassLibrary.dll
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\GLP.dll.config
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\GLP.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\GLP.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\obj\Debug\GLP.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\obj\Debug\GLP.pdb

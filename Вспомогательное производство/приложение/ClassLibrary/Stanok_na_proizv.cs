@@ -22,7 +22,7 @@ namespace ClassLibrary
                 case "Инвентарный номер": return Invertatniy_nomer;
                 case "Модель": return Model;
                 case "Год введения в эксплуатацию": return God_vvedeniya_v_expluat;
-                           
+                case "Год выпуска": return God_vipuska.ToString();          
                 default: return "";
             }
         }

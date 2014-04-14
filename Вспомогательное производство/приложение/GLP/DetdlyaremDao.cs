@@ -14,8 +14,8 @@ namespace GLP
             Detdlyarem item = new Detdlyarem();
             //Заполняем поля объекта в соответствии с названиями полей результирующего
             // набора данных
-            
-            item.NaimenovanieDet = Convert.ToString(r["NaimenovanieDet"]);
+
+            item.NaimenovanieDet = Convert.ToString(r["Naimenovanie_det"]);
             item.Kolichestv = Convert.ToDouble(r["Kolichestv"]);
                       
             return item;
@@ -30,7 +30,7 @@ namespace GLP
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                    cmd.CommandText = @"SELECT * from Detdlyarem ";
+                    cmd.CommandText = @"SELECT * from Det_dlya_rem ";
                     using (var dataReader = cmd.ExecuteReader())
                     {
                         while (dataReader.Read())
@@ -54,7 +54,7 @@ namespace GLP
                 {
                     cmd.CommandText = @"
                         INSERT INTO [Detdlyarem]
-                               ([NaimenovanieDet]
+                               ([Naimenovanie_det]
                                ,[Kolichestv]
                                )
                          VALUES
@@ -76,7 +76,7 @@ namespace GLP
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                   cmd.CommandText = "update Detdlyarem set NaimenovanieDet = @NaimenovanieDet,Kolichestv = @Kolichestv" ;
+                    cmd.CommandText = "update Detdlyarem set Naimenovanie_det = @NaimenovanieDet,Kolichestv = @Kolichestv";
                     cmd.Parameters.AddWithValue("@nazv", item.NaimenovanieDet);
                     cmd.Parameters.AddWithValue("@kol", item.Kolichestv);
                     cmd.ExecuteNonQuery();
@@ -95,7 +95,7 @@ namespace GLP
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                   cmd.CommandText = "delete [Detdlyarem] Value (NaimenovanieDet =@NaimenovanieDet,Kolichestv=@Kolichestv) " ;
+                    cmd.CommandText = "delete [Detdlyarem] Kolichestv=@Kol where   Naimenovanie_det =@Nazv) ";
                     cmd.Parameters.AddWithValue("@nazv", item.NaimenovanieDet);
                     cmd.Parameters.AddWithValue("@kol", item.Kolichestv);
                     cmd.ExecuteNonQuery();

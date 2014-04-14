@@ -31,14 +31,14 @@ namespace Win
         public AddGraficRabot(GraficRabot i)
         {
             Loaded();
-
+            InitializeComponent();
             Invertatniy_nomer.SelectedItem = i.InvertatniyNomer;
-            Date_nach_remont.Text = i.DateNachRemont.ToString();
-            tbDataOkonchRem = i.DataOkonchRem.ToString();
-            Vnepan_rem.Text = i.VnepanRem.ToString("H:m:s");
+            cbDate_nach_remont.Text = i.DateNachRemont.ToString();
+            cbDate_okonch_remont.Text = i.DataOkonchRem.ToString();
+            cbVnepan_Rem.Text = i.VnepanRem.ToString("H:m:s");
             Plan_proverk_oborud.Text = i.PlanProverkOborud.ToString();
             Naimenovanie_det.Text = i.NaimenovanieDet.ToString();
-            Raschetn_koef = i.Raschetn_koef;
+            id = i.InvertatniyNomer;
            
         }
 
@@ -50,18 +50,18 @@ namespace Win
         private void bSave_Click(object sender, RoutedEventArgs e)
         {
             GraficRabot i = new GraficRabot();
-            if (Invertatniy_nomer.Text == "" || Date_nach_remont.Text == "" || tbDataOkonchRem.SelectedDate == null || Vnepan_rem.Text == "" || Plan_proverk_oborud.Text == "" || Naimenovanie_det.Text == "" || Raschetn_koef.Text == "")
+            if (Invertatniy_nomer.Text == "" || cbDate_nach_remont.Text == "" || cbDate_okonch_remont.SelectedDate == null || cbVnepan_Rem.Text == "" || Plan_proverk_oborud.Text == "" || Naimenovanie_det.Text == "" )
             {
                 MessageBox.Show("Не все поля заполнены", "Проверка");
                 return;}
 
             i.InvertatniyNomer = Convert.ToInt32(Invertatniy_nomer.Text);
-            i.DateNachRemont = Date_nach_remont.SelectedDate;
-            i.DataOkonchRem = tbDataOkonchRem.ToString() ;
-            i.VnepanRem = Vnepan_rem.ToString();
+            i.DateNachRemont = (DateTime)cbDate_nach_remont.SelectedDate;
+            i.DataOkonchRem = (DateTime)cbDate_okonch_remont.SelectedDate;
+            i.VnepanRem = (DateTime)cbVnepan_Rem.SelectedDate; ;
             i.PlanProverkOborud = Plan_proverk_oborud.ToString();
             i.NaimenovanieDet = Naimenovanie_det.ToString();
-            i.Raschetn_koef = Convert.ToDouble(  Raschetn_koef);
+           
 
             if (id == 0)
             {
@@ -69,50 +69,30 @@ namespace Win
             }
             else
             {
-                i.IDOtpusk= id;
+             
                 GraficRabotDao.Update(i);
             }
             Close();
         }
 
-        private void Loaded()
+        private new void  Loaded()
         {
             InitializeComponent();
 
-            IList<string> material = new List<string>();
-            IList<Det> listM = DetdlyaremDao.GetAll();
+            IList<string> inv = new List<string>();
+            IList<GraficRabot> listM = GraficRabotDao.GetAll();
 
-            foreach (Det i in listM)
+            foreach (GraficRabot i in listM)
             {
-                material.Add(i.Name);
+                inv.Add(i.InvertatniyNomer.ToString());
             }
-
-            InvertatniyNomer.ItemsSource = Convert.ToInt32(Invertatniy_nomer.Text);
-            DateNachRemont.SelectedItem = Date_nach_remont.SelectedDate;
-            DataOkonchRem.ItemsSource = tbDataOkonchRem.ToString();
-            VnepanRem.Text = VnepanRem.ToString();
-            PlanProverkOborud = Plan_proverk_oborud.ToString();
-            NaimenovanieDet = Naimenovanie_det.ToString();
-            Raschetn_koef = Convert.ToDouble(Raschetn_koef);
-
-            dpOtdr.SelectedDate = DateTime.Now.Date;
-            tbTimeOtgr.Text = DateTime.Now.ToString("H:m:s");
+            Invertatniy_nomer.ItemsSource = inv;
+            Invertatniy_nomer.SelectedIndex = 0;
+            
         }
 
-        private void tbTimeOtgr_KeyDown(object sender, KeyEventArgs e)
-        {
-        //    e.Handled = true;
-
-        //    if ((e.Key >= Key.D0 && e.Key <= Key.D9) || (e.Key >= Key.NumPad0 && e.Key <= Key.NumPad9)||Convert.ToChar(e.Key) ==':') { e.Handled = false; }
-        //
-        }
-
-        private void tbKolich_KeyDown(object sender, KeyEventArgs e)
-        {
-            e.Handled = true;
-
-            if ((e.Key >= Key.D0 && e.Key <= Key.D9) || (e.Key >= Key.NumPad0 && e.Key <= Key.NumPad9)) { e.Handled = false; }
-        }
+      
+       
 
        /* private void tbKolich_KeyDown(object sender, KeyEventArgs e)
         {

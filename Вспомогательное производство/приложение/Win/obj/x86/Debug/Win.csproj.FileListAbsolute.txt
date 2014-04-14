@@ -276,21 +276,43 @@ L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогател�
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.Properties.Resources.resources
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\obj\x86\Debug\GenerateResource.read.1.tlog
 L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\obj\x86\Debug\GenerateResource.write.1.tlog
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.exe
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\AddDetdlyarem.baml
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\AddStanok_na_proizv.baml
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\AddGraficRabot.baml
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\ConnectWin.baml
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\MainWindow.baml
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\AddDetdlyarem.g.cs
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\AddStanok_na_proizv.g.cs
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\AddGraficRabot.g.cs
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\ConnectWin.g.cs
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\MainWindow.g.cs
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\App.g.cs
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win_MarkupCompile.cache
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.g.resources
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\VRA.Form1.resources
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.Properties.Resources.resources
-D:\4 Курс(2 семестр\KIS.git\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\Win.exe.manifest
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\Win.application
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\Win.exe
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\Win.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\ClassLibrary.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\GLP.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\ClassLibrary.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\bin\Debug\GLP.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.exe.manifest
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\Win\obj\x86\Debug\Win.application
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.exe
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\Win.exe.manifest
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\Win.application
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\Win.exe
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\Win.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\GLP.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\bin\Debug\GLP.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\AddDetdlyarem.baml
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\AddStanok_na_proizv.baml
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\AddGraficRabot.baml
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\ConnectWin.baml
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\AddDetdlyarem.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\AddStanok_na_proizv.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\AddGraficRabot.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\ConnectWin.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win_MarkupCompile.cache
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.g.resources
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\VRA.Form1.resources
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.Properties.Resources.resources
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.exe.manifest
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.application
