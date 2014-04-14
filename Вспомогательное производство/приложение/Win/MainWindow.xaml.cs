@@ -120,7 +120,7 @@ namespace Win
                         {
                             AddGraficRabot win = new AddGraficRabot(dgGraficRabot.SelectedItem as GraficRabot);
                             win.ShowDialog();
-                           // bDetdlyarem_Click(sender, e);
+                            bReload_Click(sender, e);
                         }
                         catch (NullReferenceException)
                         {

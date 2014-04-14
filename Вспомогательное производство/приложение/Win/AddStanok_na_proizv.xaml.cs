@@ -63,13 +63,15 @@ namespace Win
                 item.Invertatniy_nomer = id.ToString(); ;
 
                 Stanok_na_proizvDao.Update(item);
+                Close();
             }
             else
             {
                 Stanok_na_proizvDao.Add(item);
+                Close();
             }
 
-            //Close();//
+            Close();
         }
 
         /*private void Loaded()

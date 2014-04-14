@@ -21,3 +21,8 @@ D:\ПЕРСОНАЛ\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.pdb
 D:\ПЕРСОНАЛ\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
 D:\ПЕРСОНАЛ\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.dll
 D:\ПЕРСОНАЛ\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.pdb

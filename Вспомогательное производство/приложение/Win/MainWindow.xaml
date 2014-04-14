@@ -31,7 +31,8 @@
 
         <DataGrid x:Name="dgGraficRabot" Grid.Row="1" Grid.Column="1" IsReadOnly="True" AutoGenerateColumns="False" Visibility="Hidden" >
             <DataGrid.Columns>
-                
+                <DataGridTextColumn Header="Инвентарный номер" Binding="{Binding Path=InvertatniyNomer}" />
+                <DataGridTextColumn Header="Наименование детали" Binding="{Binding Path=NaimenovanieDet}" />
                 <DataGridTextColumn Header="Дата начала ремонта" Binding="{Binding Path=DateNachRemont}" />
                 <DataGridTextColumn Header="Дата окончания ремонта" Binding="{Binding Path=DataOkonchRem}" />
                 <DataGridTextColumn Header="Внеплановый ремонт" Binding="{Binding Path=VnepanRem}" />

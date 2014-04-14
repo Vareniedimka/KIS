@@ -27,7 +27,7 @@ namespace GLP
         public static IList<Stanok_na_proizv> GetAll()
         {
 
-            IList<Stanok_na_proizv> items = new List<Stanok_na_proizv>();
+            IList<Stanok_na_proizv> item = new List<Stanok_na_proizv>();
             using (var conn = Connect.GetConnect())
             {
                 conn.Open();
@@ -38,12 +38,12 @@ namespace GLP
                     {
                         while (dataReader.Read())
                         {
-                            items.Add(Load(dataReader));
+                            item.Add(Load(dataReader));
                         }
                     }
                 }
             }
-            return items;
+            return item;
         }
 
 
@@ -54,11 +54,11 @@ namespace GLP
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                    cmd.CommandText = "insert into Stanok_na_proizv(Invertatniy_nomer,Model,God_vipuska,God_vvedeniya_v_expluat) values (@Invertatniy_nomer,@Model,@God_vipuska,@God_vvedeniya_v_expluat)";
-                    cmd.Parameters.AddWithValue("@Invertatniy_nomer", item.Invertatniy_nomer);
-                    cmd.Parameters.AddWithValue("@Model", item.Model);
-                    cmd.Parameters.AddWithValue("@God_vipuska", item.God_vipuska);
-                    cmd.Parameters.AddWithValue("@God_vvedeniya_v_expluat", item.God_vvedeniya_v_expluat);
+                    cmd.CommandText = "insert into Stanok_na_proizv(Invertatniy_nomer,Model,God_vipuska,God_vvedeniya_v_expluat) values (@Inv,@Mod,@God_vi,@God_vv)";
+                    cmd.Parameters.AddWithValue("@Inv", item.Invertatniy_nomer);
+                    cmd.Parameters.AddWithValue("@Mod", item.Model);
+                    cmd.Parameters.AddWithValue("@God_vi", item.God_vipuska);
+                    cmd.Parameters.AddWithValue("@God_vv", item.God_vvedeniya_v_expluat);
                     cmd.ExecuteNonQuery();
                 }
             }

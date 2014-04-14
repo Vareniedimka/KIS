@@ -20,7 +20,7 @@ namespace Win
     /// </summary>
     public partial class AddDetdlyarem : Window
     {
-        int id;
+        double id;
 
         public AddDetdlyarem()
         {
@@ -32,6 +32,7 @@ namespace Win
             InitializeComponent();
             tbNaimenovanieDet.Text = i.NaimenovanieDet.ToString();
             tbKolichestvText = i.Kolichestv;
+            id = i.Kolichestv;
             
         }
 
@@ -51,8 +52,17 @@ namespace Win
 
             i.Kolichestv = Double.Parse(tbKolichestv.Text);
             i.NaimenovanieDet = tbNaimenovanieDet.Text;
-            
-            
+
+            if (id == 0)
+            {
+                DetdlyaremDao.Add(i);
+            }
+            else
+            {
+
+                DetdlyaremDao.Update(i);
+            }
+            Close();
             
         }
         /*

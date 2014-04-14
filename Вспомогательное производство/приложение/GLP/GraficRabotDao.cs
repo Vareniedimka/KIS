@@ -15,37 +15,37 @@ namespace GLP
             GraficRabot item = new GraficRabot();
             //Заполняем поля объекта в соответствии с названиями полей результирующего
             // набора данных
-            item.DateNachRemont = Convert.ToDateTime(r["DateNachRemont"]);
-            item.VnepanRem = Convert.ToDateTime(r["VnepanRem"]);
-            item.NaimenovanieDet = Convert.ToString(r["NaimenovanieDet"]);
-            item.PlanProverkOborud = Convert.ToString(r["PlanProverkOborud"]);
-            item.InvertatniyNomer = Convert.ToInt32(r["InvertatniyNomer"]);
-            item.DataOkonchRem = Convert.ToDateTime(r["DataOkonchRem"]);
-            item.Raschetn_koef = Convert.ToDouble(r["Raschetn_koef"]);
+            item.DateNachRemont = Convert.ToDateTime(r["Date_nach_remont"]);
+            item.VnepanRem = Convert.ToDateTime(r["Vnepan_rem"]);
+            item.NaimenovanieDet = Convert.ToString(r["Naimenovanie_det"]);
+         //  item.PlanProverkOborud = Convert.ToString(r["PlanProverkOborud"]);
+            item.InvertatniyNomer = Convert.ToInt32(r["Invertatniy_nomer"]);
+            item.DataOkonchRem = Convert.ToDateTime(r["Data_okonch_rem"]);
+         //   item.Raschetn_koef = Convert.ToInt32(r["Raschetn_koef"]);
             return item;
         }
 
         public static IList<GraficRabot> GetAll()
         {
 
-            IList<GraficRabot> items = new List<GraficRabot>();
+            IList<GraficRabot> item = new List<GraficRabot>();
             using (var conn = Connect.GetConnect())
             {
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                    cmd.CommandText = @"SELECT * from GraficRabot";
+                    cmd.CommandText = @"SELECT * from Grafic_rabot";
                        
                             using (var dataReader = cmd.ExecuteReader())
                     {
                         while (dataReader.Read())
                         {
-                            items.Add(Load(dataReader));
+                            item.Add(Load(dataReader));
                         }
                     }
                 }
             }
-            return items;
+            return item;
         }
         public static void Add(GraficRabot item)
         {
@@ -53,14 +53,15 @@ namespace GLP
             {
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
-                { 
-                    cmd.CommandText = "insert into GraficRabot(DateNachRemont,DataOkonchRem,VnepanRem,PlanProverkOborud,InvertatniyNomer,Raschetn_koef) values (@DateNachRemont,@DataOkonchRem,@VnepanRem,@PlanProverkOborud,@InvertatniyNomer,@Raschetn_koef)";
+                {
+                    cmd.CommandText = "insert into Grafic_Rabot(Naimenovanie_det,Date_nach_remont,Data_okonch_rem,Vnepan_rem,Invertatniy_nomer) values (@naim,@DateNachRemont,@DataOkonchRem,@VnepanRem,@InvertatniyNomer)";
                     cmd.Parameters.AddWithValue("@DateNachRemont", item.DateNachRemont);
                     cmd.Parameters.AddWithValue("@DataOkonchRem", item.DataOkonchRem);
                     cmd.Parameters.AddWithValue("@VnepanRem", item.VnepanRem);
-                    cmd.Parameters.AddWithValue("@PlanProverkOborud", item.PlanProverkOborud);
+                  //  cmd.Parameters.AddWithValue("@PlanProverkOborud", item.PlanProverkOborud);
                     cmd.Parameters.AddWithValue("@InvertatniyNomer", item.InvertatniyNomer);
-                    cmd.Parameters.AddWithValue("@Raschetn_koef", item.Raschetn_koef);
+                    cmd.Parameters.AddWithValue("@naim", item.NaimenovanieDet);
+                 //   cmd.Parameters.AddWithValue("@Raschetn_koef", item.Raschetn_koef);
                     cmd.ExecuteNonQuery();
                 }
             }
@@ -94,7 +95,7 @@ namespace GLP
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                    cmd.CommandText = "delete [GraficRabot] where InvertatniyNomer=@InvertatniyNome";
+                    cmd.CommandText = "delete Grafic_Rabot where InvertatniyNomer=@InvertatniyNome";
                     cmd.Parameters.AddWithValue("@InvertatniyNome", item.InvertatniyNomer);
                     cmd.ExecuteNonQuery();
                 }

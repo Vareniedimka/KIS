@@ -294,3 +294,33 @@ D:\4 Курс(2 семестр\KIS.git\Управление персоналом
 D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
 D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.exe.manifest
 D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.application
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\Win.exe.manifest
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\Win.application
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\Win.exe
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\Win.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\GLP.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\bin\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\AddRabociy.baml
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\ConnectWin.baml
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\MainWindow.baml
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\AddZarplatnay_vedom.baml
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\AddProfessii.baml
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\AddRabociy.g.cs
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\ConnectWin.g.cs
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\MainWindow.g.cs
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\AddZarplatnay_vedom.g.cs
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\AddProfessii.g.cs
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\App.g.cs
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win_MarkupCompile.cache
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.g.resources
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\VRA.Form1.resources
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.Properties.Resources.resources
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.exe.manifest
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.application
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.exe
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\Win\obj\x86\Debug\Win.pdb

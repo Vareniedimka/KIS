@@ -1,0 +1,5 @@
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Release\ClassLibrary.pdb

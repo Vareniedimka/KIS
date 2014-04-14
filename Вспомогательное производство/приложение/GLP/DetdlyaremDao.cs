@@ -24,7 +24,7 @@ namespace GLP
         public static IList<Detdlyarem> GetAll()
         {
 
-            IList<Detdlyarem> items = new List<Detdlyarem>();
+            IList<Detdlyarem> item = new List<Detdlyarem>();
             using (var conn = Connect.GetConnect())
             {
                 conn.Open();
@@ -35,12 +35,12 @@ namespace GLP
                     {
                         while (dataReader.Read())
                         {
-                            items.Add(Load(dataReader));
+                            item.Add(Load(dataReader));
                         }
                     }
                 }
             }
-            return items;
+            return item;
         }
 
 
@@ -53,7 +53,7 @@ namespace GLP
                 using (var cmd = conn.CreateCommand())
                 {
                     cmd.CommandText = @"
-                        INSERT INTO [Detdlyarem]
+                        INSERT INTO [Det_dlya_rem]
                                ([Naimenovanie_det]
                                ,[Kolichestv]
                                )
@@ -95,9 +95,9 @@ namespace GLP
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                    cmd.CommandText = "delete [Detdlyarem] Kolichestv=@Kol where   Naimenovanie_det =@Nazv) ";
+                    cmd.CommandText = "delete Det_dlya_rem where  Naimenovanie_det =@Nazv ";
                     cmd.Parameters.AddWithValue("@nazv", item.NaimenovanieDet);
-                    cmd.Parameters.AddWithValue("@kol", item.Kolichestv);
+                    //cmd.Parameters.AddWithValue("@kol", item.Kolichestv);
                     cmd.ExecuteNonQuery();
                 }
 

@@ -18,7 +18,7 @@ namespace ClassLibrary
         public DateTime DateNachRemont { get; set; }
 
         public DateTime DataOkonchRem { get; set; }
-        public double Raschetn_koef { get; set; }
+        public int Raschetn_koef { get; set; }
 
 
         public string get(string s)
@@ -27,7 +27,7 @@ namespace ClassLibrary
             {
                 case "План проверки": return PlanProverkOborud;
                 case "Внеплановый ремонт": return VnepanRem.ToString();
-                case "Наименование детали": return NaimenovanieDet;
+                case "Наименование детали": return NaimenovanieDet.ToString();
                 case "Инвентарный номер": return InvertatniyNomer.ToString();
                 case "Дата начала ремонта": return DateNachRemont.ToString();
                 case "Рассчет коэффицентов": return Raschetn_koef.ToString();

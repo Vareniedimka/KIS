@@ -16,6 +16,6 @@
         <TextBox Height="23" HorizontalAlignment="Left" Margin="150,132,0,0" Name="Plan_proverk_oborud" VerticalAlignment="Top" Width="120" />
         <Label Content="План проверки" Height="28" HorizontalAlignment="Left" Margin="12,127,0,0" Name="label2" VerticalAlignment="Top" />
         <Label Content="Деталь" Height="28" HorizontalAlignment="Left" Margin="13,168,0,0" Name="label3" VerticalAlignment="Top" />
-        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,170,90,0" Name="Naimenovanie_det" VerticalAlignment="Top" Width="120" />
+        <ComboBox Height="23" HorizontalAlignment="Right" Margin="0,170,90,0" Name="cbNaimenovanie_det" VerticalAlignment="Top" Width="120"  />
     </Grid>
 </Window>

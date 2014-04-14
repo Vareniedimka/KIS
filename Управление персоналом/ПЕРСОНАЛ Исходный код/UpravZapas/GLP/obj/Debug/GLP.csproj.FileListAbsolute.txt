@@ -60,3 +60,11 @@ D:\4 Курс(2 семестр\KIS.git\Управление персоналом
 D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
 D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.dll
 D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll.config
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.pdb

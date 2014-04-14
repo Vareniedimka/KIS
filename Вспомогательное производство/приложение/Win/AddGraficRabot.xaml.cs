@@ -24,20 +24,21 @@ namespace Win
 
         public AddGraficRabot()
         {
-            Loaded();
+         InitializeComponent();
 
         }
 
         public AddGraficRabot(GraficRabot i)
         {
             Loaded();
+           
             InitializeComponent();
             Invertatniy_nomer.SelectedItem = i.InvertatniyNomer;
             cbDate_nach_remont.Text = i.DateNachRemont.ToString();
             cbDate_okonch_remont.Text = i.DataOkonchRem.ToString();
             cbVnepan_Rem.Text = i.VnepanRem.ToString("H:m:s");
             Plan_proverk_oborud.Text = i.PlanProverkOborud.ToString();
-            Naimenovanie_det.Text = i.NaimenovanieDet.ToString();
+            cbNaimenovanie_det.SelectedItem = i.NaimenovanieDet.ToString();
             id = i.InvertatniyNomer;
            
         }
@@ -50,7 +51,7 @@ namespace Win
         private void bSave_Click(object sender, RoutedEventArgs e)
         {
             GraficRabot i = new GraficRabot();
-            if (Invertatniy_nomer.Text == "" || cbDate_nach_remont.Text == "" || cbDate_okonch_remont.SelectedDate == null || cbVnepan_Rem.Text == "" || Plan_proverk_oborud.Text == "" || Naimenovanie_det.Text == "" )
+            if (Invertatniy_nomer.Text == "" || cbDate_nach_remont.Text == "" || cbDate_okonch_remont.SelectedDate == null || cbVnepan_Rem.Text == "" || Plan_proverk_oborud.Text == "" || cbNaimenovanie_det.Text == "" )
             {
                 MessageBox.Show("Не все поля заполнены", "Проверка");
                 return;}
@@ -60,7 +61,7 @@ namespace Win
             i.DataOkonchRem = (DateTime)cbDate_okonch_remont.SelectedDate;
             i.VnepanRem = (DateTime)cbVnepan_Rem.SelectedDate; ;
             i.PlanProverkOborud = Plan_proverk_oborud.ToString();
-            i.NaimenovanieDet = Naimenovanie_det.ToString();
+            i.NaimenovanieDet = cbNaimenovanie_det.SelectedItem.ToString();
            
 
             if (id == 0)
@@ -80,16 +81,30 @@ namespace Win
             InitializeComponent();
 
             IList<string> inv = new List<string>();
-            IList<GraficRabot> listM = GraficRabotDao.GetAll();
+            IList<Stanok_na_proizv> listM = Stanok_na_proizvDao.GetAll();
 
-            foreach (GraficRabot i in listM)
+            foreach (Stanok_na_proizv i in listM)
             {
-                inv.Add(i.InvertatniyNomer.ToString());
+                inv.Add(i.Invertatniy_nomer.ToString());
             }
             Invertatniy_nomer.ItemsSource = inv;
             Invertatniy_nomer.SelectedIndex = 0;
             
+            InitializeComponent();
+
+            IList<string> naim = new List<string>();
+            IList<Detdlyarem> list = DetdlyaremDao.GetAll();
+
+            foreach (Detdlyarem i in list)
+            {
+                naim.Add(i.NaimenovanieDet.ToString());
+            }
+            cbNaimenovanie_det.ItemsSource = naim;
+            cbNaimenovanie_det.SelectedIndex = 0;
+            
         }
+       
+        
 
       
        
