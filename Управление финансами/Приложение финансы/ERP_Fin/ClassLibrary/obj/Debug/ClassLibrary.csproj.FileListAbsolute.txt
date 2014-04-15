@@ -1,0 +1,11 @@
+J:\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+K:\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+K:\Приложение финансы\ERP_Fin\ClassLibrary\bin\Debug\ClassLibrary.dll
+K:\Приложение финансы\ERP_Fin\ClassLibrary\bin\Debug\ClassLibrary.pdb
+K:\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.dll
+K:\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
