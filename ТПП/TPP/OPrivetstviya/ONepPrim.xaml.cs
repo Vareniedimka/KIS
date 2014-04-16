@@ -27,10 +27,16 @@ namespace Web
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-
-            AddNepPrim aa = new AddNepPrim();
-            aa.ShowDialog();
-            btnUpdate_Click(sender, e);
+            try
+            {
+                AddNepPrim aa = new AddNepPrim();
+                aa.ShowDialog();
+            }
+            catch
+            {
+                MessageBox.Show("Повтор");
+            }
+                btnUpdate_Click(sender, e);
         }
 
         private void btnEdit_Click(object sender, RoutedEventArgs e)

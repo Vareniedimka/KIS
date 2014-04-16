@@ -1,0 +1,39 @@
+create table vt1 (chto1 int,kuda1 int,kolvo1 int)
+create table vt2 (chto2 int,kuda2 int,kolvo2 int)
+
+create procedure udal1
+as
+declare @chto int, @kuda int,@kol int,@n int
+set @chto = (select top 1 chto1 from vt1);
+set @kuda = (select top 1 kuda1 from vt1);
+set @kol= (select top 1 kolvo1 from vt1);
+set @n= (select count(*) as nn from vt1 where @chto=chto1 and @kuda = kuda1);
+if (select COUNT(*) from vt1 where chto1 = @kuda) <> 0
+insert into vt2(chto2,kuda2,kolvo2) select  @chto, kuda1,kolvo1=kolvo1*@kol*@n from vt1 where chto1 = @kuda;
+else insert into vt2 (chto2, kuda2,kolvo2) values (@chto ,@kuda,@kol)
+delete vt1 where chto1 =@chto and kuda1 = @kuda and kolvo1 = @kol
+
+create procedure while1
+as
+while((select COUNT(*) from vt1 where chto1 in (select kuda1 from vt1)) <> '0')
+begin
+	while ((select COUNT(*) from vt1 )<> '0')
+	begin 
+	select top 1 * from vt1;
+	exec udal1;
+	end;
+	insert into vt1 (chto1,kuda1,kolvo1) select chto2,kuda2,kolvo2 from vt2;
+	end	
+	
+ create procedure posled
+as
+delete from vt2;
+declare @chto int, @kuda int,@kol int,@n int
+while (select top 1 chto1 from vt1 group by chto1,kuda1 having COUNT(*)>1) is not null
+begin
+set @chto = (select top 1 chto1 from vt1 group by chto1,kuda1 having COUNT(*)>1);
+set @kuda = (select top 1 kuda1 from vt1 group by chto1,kuda1 having COUNT(*)>1);
+set @n = (select SUM(kolvo1) from vt1 where @chto = chto1 and @kuda = kuda1); 
+delete from vt1 where (chto1 = @chto) and (kuda1=@kuda);
+insert into vt1(chto1,kuda1,kolvo1) values (@chto,@kuda,@n);
+end

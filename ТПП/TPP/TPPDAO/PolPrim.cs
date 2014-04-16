@@ -104,7 +104,7 @@ set @chto = (select top 1 chto1 from vt1);
 set @kuda = (select top 1 kuda1 from vt1);
 set @kol= (select top 1 kolvo1 from vt1);
 set @n= (select count(*) as nn from vt1 where @chto=chto1 and @kuda = kuda1);
-if (select COUNT(*) from vt1 where chto1 = @kuda) <> null
+if (select COUNT(*) from vt1 where chto1 = @kuda) <> 0
 insert into vt2(chto2,kuda2,kolvo2) select  @chto, kuda1,kolvo1=kolvo1*@kol*@n from vt1 where chto1 = @kuda;
 else insert into vt2 (chto2, kuda2,kolvo2) values (@chto ,@kuda,@kol)
 delete vt1 where chto1 =@chto and kuda1 = @kuda and kolvo1 = @kol

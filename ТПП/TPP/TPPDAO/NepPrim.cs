@@ -89,9 +89,9 @@ namespace TPPDAO
                 conn.Open();
                 using (var cmd = conn.CreateCommand())
                 {
-                    cmd.CommandText = "update  Neposredstv_prim set izd_chto =(select ID_DCE from DSE where Naimenovanie = @nc), izd_kuda = (select ID_DCE from DSE where Naimenovanie = @nk),Kolichestvo = @Kolichestvo, Primechanie =@Primechanie";
+                    cmd.CommandText = "update  Neposredstv_prim set izd_chto =(select ID_DCE from DSE where Naimenovanie = @nc), izd_kuda = (select ID_DCE from DSE where Naimenovanie = @nk),Kolichestvo = @Kolichestvo, Primechanie =@Primechanie where izd_chto =(select ID_DCE from DSE where Naimenovanie = @nc) and izd_kuda = (select ID_DCE from DSE where Naimenovanie = @nk)";
                     cmd.Parameters.AddWithValue("@nc", dd.name_chto);
-                    cmd.Parameters.AddWithValue("@nc", dd.name_kuda);
+                    cmd.Parameters.AddWithValue("@nk", dd.name_kuda);
                     cmd.Parameters.AddWithValue("@Kolichestvo", dd.Kolichestvo);
                     cmd.Parameters.AddWithValue("@Primechanie", dd.Primichanie);
                     cmd.ExecuteNonQuery();
