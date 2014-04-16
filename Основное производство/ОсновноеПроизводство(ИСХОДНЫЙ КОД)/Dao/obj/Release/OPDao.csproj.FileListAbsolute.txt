@@ -1,0 +1,8 @@
+E:\ОсновноеПроизводство\Dao\bin\Release\Dao.dll.config
+E:\ОсновноеПроизводство\Dao\bin\Release\Dao.dll
+E:\ОсновноеПроизводство\Dao\bin\Release\Dao.pdb
+E:\ОсновноеПроизводство\Dao\bin\Release\СтраховойЗадел.dll
+E:\ОсновноеПроизводство\Dao\bin\Release\СтраховойЗадел.pdb
+E:\ОсновноеПроизводство\Dao\obj\Release\ResolveAssemblyReference.cache
+E:\ОсновноеПроизводство\Dao\obj\Release\Dao.dll
+E:\ОсновноеПроизводство\Dao\obj\Release\Dao.pdb

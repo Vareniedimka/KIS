@@ -1,0 +1,17 @@
+﻿<Window x:Class="Win.AddOtchet_o_vip_tov_plan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Отчет о выполнении товарного плана" Height="274" Width="557" ShowActivated="False" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="207,11,0,0" Name="tbData_eshednevno" VerticalAlignment="Top" Width="128" MaxLength="10"/>
+        <TextBox Height="23" Margin="207,43,224,0" Name="tbKolichestvo" VerticalAlignment="Top" MaxHeight="30" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="207,74,0,0" Name="tbNomer_izg_det" VerticalAlignment="Top" Width="103" />
+        <Label Content="Номер изготовленной детали" Height="28" HorizontalAlignment="Left" Margin="27,69,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Дата(ежедневно)" Height="28" Margin="27,11,377,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Количество" Height="28" HorizontalAlignment="Left" Margin="27,41,0,0" Name="label3" VerticalAlignment="Top" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Right" Margin="0,148,225,0" Name="bCancel" VerticalAlignment="Top" Width="75" Click="bClose_Click" />
+        <Button Content="Сохранить" Height="23" HorizontalAlignment="Left" Margin="27,148,0,0" Name="bSave" VerticalAlignment="Top" Width="75" Click="bSave_Click" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="207,105,0,0" Name="tbID_Izg_SE" VerticalAlignment="Top" Width="103" />
+         <Label Content="Код изготовленной СЕ" Height="28" HorizontalAlignment="Left" Margin="27,103,0,0" Name="label4" VerticalAlignment="Top" Width="145" />
+    </Grid>
+</Window>

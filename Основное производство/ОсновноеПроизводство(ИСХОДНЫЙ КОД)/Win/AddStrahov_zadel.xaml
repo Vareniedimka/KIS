@@ -1,0 +1,15 @@
+﻿<Window x:Class="Win.AddStrahov_zadel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Страховой задел" Height="204" Width="413"  ShowActivated="False" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="196,44,0,0" Name="tbNaimenovanie_det" VerticalAlignment="Top" Width="180" MaxLength="10"/>
+        <TextBox Height="23" Margin="196,83,12,0" Name="tbKolichestvo" VerticalAlignment="Top" MaxHeight="30" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,12,12,0" Name="tbData_strahovogo_zadela" VerticalAlignment="Top" Width="180" />
+        <Label Content="Дата страхового задела" Height="28" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Наименование детали" Height="28" HorizontalAlignment="Left" Margin="0,39,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Количество" Height="28" HorizontalAlignment="Left" Margin="12,78,0,0" Name="label3" VerticalAlignment="Top" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Right" Margin="0,122,51,0" Name="bCancel" VerticalAlignment="Top" Width="75" Click="bClose_Click" />
+        <Button Content="Сохранить" Height="23" HorizontalAlignment="Left" Margin="42,122,0,0" Name="bSave" VerticalAlignment="Top" Width="75" Click="bSave_Click" />
+    </Grid>
+</Window>
