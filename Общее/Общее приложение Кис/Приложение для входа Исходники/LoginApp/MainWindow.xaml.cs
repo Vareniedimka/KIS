@@ -24,12 +24,12 @@ namespace LoginApp
         /// отображается в комбобоксе
         /// </summary>
         string[] podsistemList = { "Управление запасами", "Управление производством", "Маркетинг", 
-                                  "Вспомогательное производство" , "Финансы", "Управление персоналом", "Управление качеством"};
+                                  "Вспомогательное производство" , "Финансы", "Управление персоналом", "Управление качеством","ТПП"};
 
         /// <summary>
         /// префикс для логина. должен соответствовать подсистеме 
         /// </summary>
-        string[] prefixList = { "UZ/", "UPr/", "Ma/", "VsP/", "Fin/", "UPer/", "UK/" };
+        string[] prefixList = { "UZ/", "UProi", "Ma/", "VsP/", "Fin/", "UPer/", "UK/","TPP/" };
 
         /// <summary>
         /// Сохраняет бд и сервер
@@ -65,7 +65,7 @@ namespace LoginApp
         {
             try
             {
-                string connectString = "Data Source=" + server.Text + "; Initial Catalog=" + dataBase.Text + "; Integrated Security=true; User ID=" + tbPrefix.Text + login.Text + ";Password=" + pass.Password;
+                string connectString = "Data Source=" + server.Text + "; Initial Catalog=" + dataBase.Text + "; Integrated Security=true; User ID=" + /*tbPrefix.Text +*/ login.Text + ";Password=" + pass.Password;
                 SqlConnection sql = new SqlConnection(connectString);
                 sql.Open();
                 sql.Close();
@@ -89,13 +89,39 @@ namespace LoginApp
                         }
                     case 1:
                         {
-                            pathApp = "";
+                            pathApp = "Uproi\\Win.exe";
                             break;
                         }
-                    default: { break; }
+                    case 3:
+                        {
+                            pathApp = "Ma\\Win.exe";
+                            break;
+                        }
+                    case 4:
+                        {
+                            pathApp = "Fin\\ERP_Fin.exe";
+                            break;
+                        }
+                    case 5:
+                        {
+                            pathApp = "Up\\Win.exe";
+                            break;
+                        }
+                    case 6:
+                        {
+                            pathApp = "UPer\\Win.exe";
+                            break;
+                        }
+                    case 7:
+                        {
+                            pathApp = "UK\\Win.exe";
+                            break;
+                        }
+                   
+
                 }
                 //запускаем нужное приложение с параметрамми
-                System.Diagnostics.Process.Start(pathApp, server.Text + " " + dataBase.Text + " " + tbPrefix.Text + login.Text + " " + pass.Password);
+                System.Diagnostics.Process.Start(pathApp, server.Text + " " + dataBase.Text + " " + login.Text + " " + pass.Password);
                 Close();
             }
             catch (Exception ex)

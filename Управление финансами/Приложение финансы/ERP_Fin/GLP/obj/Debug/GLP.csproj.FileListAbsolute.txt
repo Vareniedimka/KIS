@@ -12,3 +12,10 @@ D:\KIS\KIS.git\Управление финансами\Приложение фи
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\GLP\bin\Debug\ClassLibrary.dll
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\GLP\bin\Debug\ClassLibrary.pdb
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\GLP\obj\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\GLP\bin\Debug\GLP.dll
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\GLP\bin\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\GLP\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\GLP\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\GLP\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\GLP\obj\Debug\GLP.dll
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\GLP\obj\Debug\GLP.pdb

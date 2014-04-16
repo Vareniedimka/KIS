@@ -1,0 +1,17 @@
+﻿<Window x:Class="Win.AddPokupka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Товар" Height="150.591" Width="263" >
+    <Grid Height="161" Width="242">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="12*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Сохранить" Height="23" HorizontalAlignment="Left" Margin="23,10,0,0" Name="bSave" VerticalAlignment="Top" Width="75" Click="bSave_Click" Grid.Row="1" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Left" Margin="134,10,0,0" Name="bCancel" VerticalAlignment="Top" Width="75" Click="bClose_Click" Grid.Row="1" />
+        <Label Content="Стоимость" Height="28" HorizontalAlignment="Left" Margin="40,41,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="Номер счета" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label5" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="111,14,0,0" Name="tbname" VerticalAlignment="Top" Width="120" MaxLength="50" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="111,43,0,0" Name="tbstoim" VerticalAlignment="Top" Width="120" MaxLength="200" />
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Release\GLP.dll.config
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Release\GLP.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Release\GLP.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Release\ClassLibrary.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Release\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Release\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Release\GLP.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Release\GLP.pdb

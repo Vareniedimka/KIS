@@ -1,0 +1,14 @@
+K:\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ERP_Fin.exe.config
+J:\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ERP_Fin.exe.config
+K:\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ERP_Fin.exe
+K:\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ERP_Fin.pdb
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.csprojResolveAssemblyReference.cache
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\MainWindow.baml
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\MainWindow.g.cs
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\App.g.cs
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin_MarkupCompile.cache
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.g.resources
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.Properties.Resources.resources
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.csproj.GenerateResource.Cache
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.exe
+K:\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.pdb

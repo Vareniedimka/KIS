@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\
 Win
 none
 false
 DEBUG;TRACE
-G:\Кис приложение\Исходный код приложения\UpravZapas\Win\App.xaml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\App.xaml
 7461168857
 
 121375715537
-19940247021
+19-937412643
 AddMaterial.xaml;AddMaterialPostav.xaml;AddZakaz.xaml;AddOtpuskSoSklada.xaml;MainWindow.xaml;AddZapas.xaml;AddPostavhik.xaml;
 
 False

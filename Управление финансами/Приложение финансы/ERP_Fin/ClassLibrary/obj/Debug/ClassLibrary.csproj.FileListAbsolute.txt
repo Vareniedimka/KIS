@@ -9,3 +9,8 @@ D:\KIS\KIS.git\Управление финансами\Приложение фи
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.dll
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.pdb
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -25,3 +25,17 @@ C:\Новая папка (2)\KIS\Общее\Общее приложение Ки
 C:\Новая папка (2)\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
 C:\Новая папка (2)\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\GenerateResource.read.1.tlog
 C:\Новая папка (2)\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\GenerateResource.write.1.tlog
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\LoginApp.exe
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\LoginApp.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\bin\Debug\LoginApp.exe
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\bin\Debug\LoginApp.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\MainWindow.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\MainWindow.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\App.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\LoginApp_MarkupCompile.cache
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\LoginApp.g.resources
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\GenerateResource.read.1.tlog
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение для входа Исходники\LoginApp\obj\Debug\GenerateResource.write.1.tlog

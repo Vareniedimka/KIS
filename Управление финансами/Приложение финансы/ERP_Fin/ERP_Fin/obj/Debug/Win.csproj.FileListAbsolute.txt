@@ -53,3 +53,31 @@ D:\KIS\KIS.git\Управление финансами\Приложение фи
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddOplata.g.cs
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddProvodki.baml
 D:\KIS\KIS.git\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddProvodki.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ERP_Fin.exe.config
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.exe
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ERP_Fin.exe
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ERP_Fin.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\GLP.dll
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\bin\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddOplata.baml
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddProvodki.baml
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ConnectWin.baml
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\MainWindow.baml
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\addprodazi.baml
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddPokupka.baml
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddOplata.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddProvodki.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ConnectWin.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\MainWindow.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\addprodazi.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\AddPokupka.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\App.g.cs
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin_MarkupCompile.cache
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.g.resources
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\ERP_Fin.Properties.Resources.resources
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\GenerateResource.read.1.tlog
+C:\Новая папка\KIS\Управление финансами\Приложение финансы\ERP_Fin\ERP_Fin\obj\Debug\GenerateResource.write.1.tlog

@@ -38,7 +38,7 @@ namespace Win
             catch
             {
                 MessageBox.Show("Не удалось подключится к базе данных", "Подключение");
-                this.bConnect_Click(new object(), new RoutedEventArgs());
+                //this.bConnect_Click(new object(), new RoutedEventArgs());
                 try
                 {
                     dgBuhgalterski_balans.ItemsSource = Buhgalterski_balansDao.GetAll();
@@ -269,8 +269,10 @@ namespace Win
 
         private void bConnect_Click(object sender, RoutedEventArgs e)
         {
-            ConnectWin conn = new ConnectWin();
-            conn.ShowDialog();
+           //ConnectWin conn = new ConnectWin();
+          //  conn.ShowDialog(); 
+            System.Diagnostics.Process.Start("LoginApp.exe");
+            Close();
 
         }
 //        private void HtmlExporterButton_Click(object sender, RoutedEventArgs e)

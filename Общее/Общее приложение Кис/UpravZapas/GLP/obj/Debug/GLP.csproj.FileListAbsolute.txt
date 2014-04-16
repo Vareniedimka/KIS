@@ -1,0 +1,78 @@
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll.config
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+E:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll.config
+E:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.dll
+E:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\GLP.pdb
+E:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\ResolveAssemblyReference.cache
+E:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.dll
+E:\универ\Курсовая\приложение\Kursach\GLP\obj\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+J:\универ\Курсовая\приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+F:\Содержание CD\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+F:\Содержание CD\Исходный код\Kursach\GLP\obj\Debug\ResolveAssemblyReference.cache
+F:\Содержание CD\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+F:\Содержание CD\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+D:\наш.кис\Исходный код\Kursach\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+D:\наш.кис\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+D:\наш.кис\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+D:\наш.кис\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll.config
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.dll
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\GLP.pdb
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.dll
+D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\ClassLibrary.pdb
+D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\ResolveAssemblyReference.cache
+D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
+D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
+D:\ПЕРСОНАЛ\UpravZapas\GLP\bin\Debug\GLP.dll.config
+D:\ПЕРСОНАЛ\UpravZapas\GLP\bin\Debug\GLP.dll
+D:\ПЕРСОНАЛ\UpravZapas\GLP\bin\Debug\GLP.pdb
+D:\ПЕРСОНАЛ\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
+D:\ПЕРСОНАЛ\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
+D:\ПЕРСОНАЛ\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+D:\ПЕРСОНАЛ\UpravZapas\GLP\obj\Debug\GLP.dll
+D:\ПЕРСОНАЛ\UpravZapas\GLP\obj\Debug\GLP.pdb
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll.config
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.pdb
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.dll
+D:\4 Курс(2 семестр\KIS.git\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll.config
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\GLP.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.dll
+C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\GLP\obj\Debug\GLP.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\bin\Debug\GLP.dll.config
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\bin\Debug\GLP.dll
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\bin\Debug\GLP.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\obj\Debug\GLP.dll
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\GLP\obj\Debug\GLP.pdb
