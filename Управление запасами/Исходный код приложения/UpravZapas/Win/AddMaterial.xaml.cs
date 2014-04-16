@@ -53,8 +53,9 @@ namespace Win
             i.Cena = Double.Parse(tbCena.Text);
             i.EdinIzm=tbEdIzm.Text;
             i.Name = tbName.Text;
-
-            if (id == 0)
+            try
+            {
+                if (id == 0)
                 {
                     MaterialDao.Add(i);
                 }
@@ -63,7 +64,13 @@ namespace Win
                     i.IDMateriala = id;
                     MaterialDao.Update(i);
                 }
-            Close();
+                Close();
+            }
+            catch
+            {
+                MessageBox.Show("Не удалось внести изменения в БД,\nпожелуйста проверьте введенные данные","Ошибка");
+            }
+                
         }
         /*
         private void tbTelefon_KeyUp(object sender, KeyEventArgs e)

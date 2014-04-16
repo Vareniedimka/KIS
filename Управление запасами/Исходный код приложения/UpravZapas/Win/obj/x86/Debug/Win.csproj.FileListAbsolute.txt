@@ -236,3 +236,72 @@ D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug
 D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.exe.manifest
 D:\Кис приложение\Исходный код\Kursach\Win\obj\x86\Debug\Win.application
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.exe
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterial.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterialPostav.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZakaz.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddOtpuskSoSklada.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\MainWindow.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZapas.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddPostavhik.baml
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterial.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddMaterialPostav.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZakaz.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddOtpuskSoSklada.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\MainWindow.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddZapas.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\AddPostavhik.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\App.g.cs
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win_MarkupCompile.cache
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.g.resources
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\VRA.Form1.resources
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.Properties.Resources.resources
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.exe.manifest
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.application
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.exe
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\Win.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\ClassLibrary.dll
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\GLP.dll
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\ClassLibrary.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\bin\Debug\GLP.pdb
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.exe.manifest
+G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Debug\Win.application
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\Win.exe.manifest
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\Win.application
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\Win.exe
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\Win.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\GLP.dll
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\bin\Debug\GLP.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddMaterial.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddMaterialPostav.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddZakaz.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddOtpuskSoSklada.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\MainWindow.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddZapas.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddPostavhik.baml
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddMaterial.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddMaterialPostav.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddZakaz.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddOtpuskSoSklada.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\MainWindow.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddZapas.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\AddPostavhik.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\App.g.cs
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win_MarkupCompile.cache
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.g.resources
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\VRA.Form1.resources
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.Properties.Resources.resources
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.exe.manifest
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.application
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.exe
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.pdb
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.exe
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\Win\obj\x86\Debug\Win.pdb

@@ -51,16 +51,23 @@ namespace Win
             }
             i.Kolichestvo = Convert.ToInt32(tbKolich.Text);
             i.MaterialName = cbMaterial.SelectedItem.ToString();
-            if (id == 0)
+            try
             {
-                ZapasDao.Add(i);
+                if (id == 0)
+                {
+                    ZapasDao.Add(i);
+                }
+                else
+                {
+                    i.IDMateriala = id;
+                    ZapasDao.Update(i);
+                }
+                Close();
             }
-            else
+            catch
             {
-                i.IDMateriala = id;
-                ZapasDao.Update(i);
+                MessageBox.Show("Не удалось внести изменения в БД,\nпожелуйста проверьте введенные данные", "Ошибка");
             }
-            Close();
         }
         private void Load()
         {

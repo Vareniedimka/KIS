@@ -54,19 +54,25 @@ namespace Win
             MaterialPostav item = new MaterialPostav();
             item.MaterialName = cbMaterial.SelectedItem.ToString();
             item.PostavhikName = cbPostavhik.SelectedItem.ToString();
-           
-            if (idM != 0)
+            try
             {
-                item.IDMateriala = idM;
-                item.IDPostavhik = idP;
-                MaterialPostavDao.Update(item);
-            }
-            else
-            {
-                MaterialPostavDao.Add(item);
-            }
+                if (idM != 0)
+                {
+                    item.IDMateriala = idM;
+                    item.IDPostavhik = idP;
+                    MaterialPostavDao.Update(item);
+                }
+                else
+                {
+                    MaterialPostavDao.Add(item);
+                }
 
-            Close();
+                Close();
+            }
+            catch
+            {
+                MessageBox.Show("Не удалось внести изменения в БД,\nпожелуйста проверьте введенные данные", "Ошибка");
+            }
         }
 
         private void Loaded()

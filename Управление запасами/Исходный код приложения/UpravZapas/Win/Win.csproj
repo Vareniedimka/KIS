@@ -121,10 +121,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ConnectWin.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -144,9 +140,6 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="ConnectWin.xaml.cs">
-      <DependentUpon>ConnectWin.xaml</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -255,6 +248,18 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="phppg_1666.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\zakaz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MatPost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\postav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\otpusk.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

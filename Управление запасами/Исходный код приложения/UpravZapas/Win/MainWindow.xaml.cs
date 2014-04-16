@@ -32,6 +32,11 @@ namespace Win
         public MainWindow()
         {
             InitializeComponent();
+            //получаем параметры запуска
+            var args = Environment.GetCommandLineArgs();
+            //Вводим параметры подключения
+            Connect.setConnectInfo(args[1],args[2], args[3], args[4]);
+
             try
             {
                 dgPostavhik.ItemsSource = PostavhikDao.GetAll();
@@ -39,16 +44,15 @@ namespace Win
             catch
             {
                 MessageBox.Show("Не удалось подключится к базе данных", "Подключение");
-                this.bConnect_Click(new object(), new RoutedEventArgs());
+              /*this.bConnect_Click(new object(), new RoutedEventArgs());
                 try
                 {
                     dgPostavhik.ItemsSource = PostavhikDao.GetAll();
                 }
                 catch {
-                }
-
+                }*/
             }
-            statusLabel.Content = "Работа с таблицей: Покупатель";
+            statusLabel.Content = "Работа с таблицей: Поставщики";
         }
 
         private void bReload_Click(object sender, RoutedEventArgs e)
@@ -91,8 +95,8 @@ namespace Win
             }
             catch {
 
-                MessageBox.Show("Не удалось подключится к базе данных", "Подключение");
-                this.bConnect_Click(new object(), new RoutedEventArgs());
+                MessageBox.Show("Потерено соединение с базой данных", "Подключение");
+                //this.bConnect_Click(new object(), new RoutedEventArgs());
                 //dgPostavhik.ItemsSource = PostavhikDao.GetAll();
             }
 
@@ -330,8 +334,10 @@ namespace Win
 
         private void bConnect_Click(object sender, RoutedEventArgs e)
         {
-            ConnectWin conn = new ConnectWin();
-            conn.ShowDialog();
+            System.Diagnostics.Process.Start("LoginApp.exe");
+            Close();
+           /* ConnectWin conn = new ConnectWin();
+            conn.ShowDialog();*/
             
         }
 

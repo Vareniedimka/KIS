@@ -1,7 +1,7 @@
 ﻿<Window x:Class="Win.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Управление запасами" Height="389" Width="629" IsHitTestVisible="True" Focusable="True" MinWidth="629" MinHeight="389" Icon="/Win;component/Images/phppg_3471.png">
+        Title="Управление запасами" Height="541" Width="629" IsHitTestVisible="True" Focusable="True" MinWidth="629" MinHeight="389" Icon="/Win;component/Images/phppg_3471.png">
     <Grid  Height="Auto" Width="Auto">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
@@ -81,7 +81,7 @@
         
         <Menu Height="25" HorizontalAlignment="Stretch" Name="mainMenu" VerticalAlignment="Top" Grid.ColumnSpan="3" IsHitTestVisible="True">
             <MenuItem Name="DataBase" Header="База данных">
-                <MenuItem Name="dataBaseS" Header="Настроить соединение с имеющейся БД" Click="bConnect_Click" />
+                <MenuItem Name="dataBaseS" Header="Выход" Click="bConnect_Click" />
             </MenuItem>
             <MenuItem Name="Reports" Header="Отчеты">
                 <MenuItem Name="ExelExporterButton" Header="Экспорт таблицы Excel" Click="ExelExporterButton_Click" />
@@ -91,14 +91,14 @@
         </Menu>
         <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical">
             
-            <Button Name="bPostavhik"  Width="75" Height="50" ButtonBase.Click="bPostavhik_Click" >
+            <Button Name="bPostavhik"  Width="75" Height="80" ButtonBase.Click="bPostavhik_Click" >
             <Button.Content>
                 <StackPanel>
-                    <!--<Image  Width="71" Source="/Win;component/Images/clients.png" Height="53" DataContext="{Binding}" ClipToBounds="False" Focusable="True" ForceCursor="True">
+                    <Image  Width="71" Source="/Win;component/Images/clients.png" Height="53" DataContext="{Binding}" ClipToBounds="False" Focusable="True" ForceCursor="True">
                             <Image.BindingGroup>
                                 <BindingGroup />
                             </Image.BindingGroup>
-                        </Image>-->
+                        </Image>
                     <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10">Поставщики</TextBlock>
 
                 </StackPanel>

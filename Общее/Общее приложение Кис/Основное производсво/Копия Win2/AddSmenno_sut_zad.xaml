@@ -1,0 +1,29 @@
+﻿<Window x:Class="Win.AddSmenno_sut_zad"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Сменно - суточное задание" Height="507" Width="420"  ShowActivated="False" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="190,12,0,0" Name="tbNomer_SSZ" VerticalAlignment="Top" Width="180" MaxLength="10"/>
+        <TextBox Height="23" Margin="190,41,24,0" Name="tbTabeln_nomer" VerticalAlignment="Top" MaxHeight="30" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="190,69,0,0" Name="tbData_nach_vip_plan" VerticalAlignment="Top" Width="180" />
+        <Label Content="Дата начала выполнения плана" Height="28" HorizontalAlignment="Left" Margin="0,69,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Номер ССЗ" Height="28" HorizontalAlignment="Left" Margin="27,11,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Табельный номер" Height="28" HorizontalAlignment="Left" Margin="12,41,0,0" Name="label3" VerticalAlignment="Top" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Right" Margin="0,425,31,0" Name="bCancel" VerticalAlignment="Top" Width="75" Click="bClose_Click" />
+        <Button Content="Сохранить" Height="23" HorizontalAlignment="Left" Margin="5,425,0,0" Name="bSave" VerticalAlignment="Top" Width="75" Click="bSave_Click" />
+        <TextBox Height="24" HorizontalAlignment="Left" Margin="190,103,0,0" Name="tbData_okonch_vip_plan" VerticalAlignment="Top" Width="179" />
+        <TextBox Height="26" HorizontalAlignment="Left" Margin="190,140,0,0" Name="tbCex" VerticalAlignment="Top" Width="177" />
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="191,178,0,0" Name="tbID_operacii" VerticalAlignment="Top" Width="176" />
+        <Label Content="Дата окончания выполнения плана" Height="23" HorizontalAlignment="Left" Margin="5,103,0,0" Name="label4" VerticalAlignment="Top" Width="172" />
+        <Label Content="Цех" Height="26" HorizontalAlignment="Left" Margin="8,140,0,0" Name="label5" VerticalAlignment="Top" Width="173" />
+        <Label Content="Код операции" Height="23" HorizontalAlignment="Left" Margin="5,181,0,0" Name="label6" VerticalAlignment="Top" Width="169" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="193,218,0,0" Name="tbDate" VerticalAlignment="Top" Width="173" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="194,254,0,0" Name="tbSmena" VerticalAlignment="Top" Width="173" />
+        <Label Content="Дата" Height="25" HorizontalAlignment="Left" Margin="8,218,0,0" Name="label7" VerticalAlignment="Top" Width="169" />
+        <Label Content="Смена" Height="27" HorizontalAlignment="Left" Margin="12,252,0,0" Name="label8" VerticalAlignment="Top" Width="163" />
+        <TextBox Height="27" HorizontalAlignment="Left" Margin="195,290,0,0" Name="tbNomer_partii" VerticalAlignment="Top" Width="174" />
+        <TextBox Height="28" HorizontalAlignment="Right" Margin="0,328,29,0" Name="tbID_DCE" VerticalAlignment="Top" Width="172" />
+        <Label Content="Номер партии" Height="27" HorizontalAlignment="Left" Margin="6,289,0,0" Name="label9" VerticalAlignment="Top" Width="182" />
+        <Label Content="Код ДСЕ" Height="27" HorizontalAlignment="Left" Margin="8,329,0,0" Name="label10" VerticalAlignment="Top" Width="180" />
+    </Grid>
+</Window>

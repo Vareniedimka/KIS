@@ -1,0 +1,23 @@
+﻿<Window x:Class="Win.AddPlan_sbor_cexa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="План сборочного цеха" Height="355" Width="507"  ShowActivated="False" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid Height="600" Width="458">
+        <TextBox Height="24" HorizontalAlignment="Right" Margin="0,14,34,0" Name="tbData_nach_vip_plan" VerticalAlignment="Top" Width="188" />
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="236,48,0,0" Name="tbData_okonch_vip_plan" VerticalAlignment="Top" Width="188" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,80,101,0" Name="tbPoryadok_vip_det" VerticalAlignment="Top" Width="121" />
+        <TextBox Height="28" HorizontalAlignment="Right" Margin="0,119,135,0" Name="tbObhee_fact_kol" VerticalAlignment="Top" Width="87" />
+        <TextBox Height="24" HorizontalAlignment="Left" Margin="266,153,0,0" Name="tbPlan_det_den" VerticalAlignment="Top" Width="68" />
+        <TextBox Height="21" HorizontalAlignment="Left" Margin="266,0,0,389" Name="tbFact_det_den" VerticalAlignment="Bottom" Width="79" />
+        <TextBox Height="22" HorizontalAlignment="Left" Margin="266,217,0,0" Name="tbID_DCE" VerticalAlignment="Top" Width="63" />
+        <Label Content="Дата начала выполнения плана" Height="26" HorizontalAlignment="Left" Margin="11,12,0,0" Name="label1" VerticalAlignment="Top" Width="199" />
+        <Label Content="Дата окончания выполнения плана" Height="27" HorizontalAlignment="Left" Margin="11,48,0,0" Name="label2" VerticalAlignment="Top" Width="218" />
+        <Label Content="Порядок выполнения деталей" Height="31" HorizontalAlignment="Left" Margin="12,80,0,0" Name="label3" VerticalAlignment="Top" Width="198" />
+        <Label Content="Общее фактическое количество" Height="29" HorizontalAlignment="Left" Margin="12,117,0,0" Name="label5" VerticalAlignment="Top" Width="198" />
+        <Label Content="Планируемое количество деталей в день" Height="26" HorizontalAlignment="Left" Margin="12,153,0,0" Name="label6" VerticalAlignment="Top" Width="245" />
+        <Label Content="Фактическое количество деталей в день" Height="26" HorizontalAlignment="Left" Margin="11,185,0,0" Name="label7" VerticalAlignment="Top" Width="234" />
+        <Label Content="Код ДСЕ" Height="27" HorizontalAlignment="Left" Margin="12,209,0,0" Name="label11" VerticalAlignment="Top" Width="63" />
+        <Button Content="Отмена" Height="23" HorizontalAlignment="Right" Margin="0,268,147,0" Name="bCancel" VerticalAlignment="Top" Width="75" Click="bClose_Click" />
+        <Button Content="Сохранить" Height="23" HorizontalAlignment="Left" Margin="25,268,0,0" Name="bSave" VerticalAlignment="Top" Width="75" Click="bSave_Click" />
+    </Grid>
+</Window>

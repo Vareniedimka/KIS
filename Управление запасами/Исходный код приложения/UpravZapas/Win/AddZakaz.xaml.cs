@@ -77,16 +77,24 @@ namespace Win
             {
                 i.DataVipolneni = Convert.ToDateTime(dpVipol.Text + " " + tbTimeVipoln.Text);            
             }
-            if (id == 0)
+
+            try
             {
-                ZakazDao.Add(i);
+                if (id == 0)
+                {
+                    ZakazDao.Add(i);
+                }
+                else
+                {
+                    i.IDZakaza = id;
+                    ZakazDao.Update(i);
+                }
+                Close();
             }
-            else
+            catch
             {
-                i.IDZakaza = id;
-                ZakazDao.Update(i);
+                MessageBox.Show("Не удалось внести изменения в БД,\nпожелуйста проверьте введенные данные", "Ошибка");
             }
-            Close();
         }
 
         private void Loaded()

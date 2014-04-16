@@ -55,8 +55,9 @@ namespace Win
             i.Name = tbName.Text;
             i.NomerScheta = tbNomerSch.Text;
             i.Phone = tbPhone.Text;
-            
-            if (id == 0)
+            try
+            {
+                if (id == 0)
                 {
                     PostavhikDao.Add(i);
                 }
@@ -65,7 +66,12 @@ namespace Win
                     i.IDPostavhik = id;
                     PostavhikDao.Update(i);
                 }
-            Close();
+                Close();
+            }
+            catch
+            {
+                MessageBox.Show("Не удалось внести изменения в БД,\nпожелуйста проверьте введенные данные", "Ошибка");
+            }
         }
 
         private void tbPhone_KeyDown(object sender, KeyEventArgs e)

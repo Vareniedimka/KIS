@@ -29,7 +29,7 @@ namespace LoginApp
         /// <summary>
         /// префикс для логина. должен соответствовать подсистеме 
         /// </summary>
-        string[] prefixList = { "UZ/", "UProi", "Ma/", "VsP/", "Fin/", "UPer/", "UK/","TPP/" };
+        string[] prefixList = { "UZ/", "OsProi/", "Ma/", "VsP/", "Fin/", "UPer/", "UK/","TPP/" };
 
         /// <summary>
         /// Сохраняет бд и сервер
@@ -48,17 +48,15 @@ namespace LoginApp
             dataBase.Text = ConnectInfo.Default.dataBase;
             server.Text = ConnectInfo.Default.server;
             cbPodSis.ItemsSource = podsistemList;
-            pass.IsEnabled = false;
-            login.IsEnabled = false;
-            bOk.IsEnabled = false;
+            cbPodSis.SelectedIndex = 0;
+       
         }
 
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            pass.IsEnabled = true;
-            login.IsEnabled = true;
-            bOk.IsEnabled = true;
+        
             tbPrefix.Text = prefixList[cbPodSis.SelectedIndex];
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -89,12 +87,12 @@ namespace LoginApp
                         }
                     case 1:
                         {
-                            pathApp = "Uproi\\Win.exe";
+                            pathApp = "OsPr\\Win.exe";
                             break;
                         }
                     case 3:
                         {
-                            pathApp = "Ma\\Win.exe";
+                            pathApp = "VSp\\win.exe";
                             break;
                         }
                     case 4:
@@ -114,7 +112,7 @@ namespace LoginApp
                         }
                     case 7:
                         {
-                            pathApp = "UK\\Win.exe";
+                            pathApp = "Tpp\\OPrivetstviya.exe";
                             break;
                         }
                    
@@ -132,5 +130,7 @@ namespace LoginApp
 
             
         }
+
+    
     }
 }

@@ -1,0 +1,16 @@
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\obj\Release\ResolveAssemblyReference.cache
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\TPPDAO.dll.config
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\TPPDAO.dll
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\TPPDAO.pdb
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\ClassBD.dll
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\ClassBD.pdb
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\obj\Release\TPPDAO.dll
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\obj\Release\TPPDAO.pdb
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\TPPDAO.dll.config
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\TPPDAO.dll
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\TPPDAO.pdb
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\ClassBD.dll
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\bin\Release\ClassBD.pdb
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\obj\Release\ResolveAssemblyReference.cache
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\obj\Release\TPPDAO.dll
+L:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\TPPDAO\obj\Release\TPPDAO.pdb

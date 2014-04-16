@@ -1,0 +1,16 @@
+﻿<Window x:Class="Web.OPolPrim"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="OPolPrim" Height="259" Width="705">
+    <Grid Height="219" Width="663">
+        <DataGrid AutoGenerateColumns="False" Height="200" HorizontalAlignment="Left" Margin="12,12,0,0" Name="dgPP" VerticalAlignment="Top" Width="541">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Изд_что" Binding="{Binding Path= name_chto}" />
+                <DataGridTextColumn Header="Изд_куда" Binding="{Binding Path= name_kuda}" />
+                <DataGridTextColumn Header="Количество" Binding="{Binding Path= Kolichestvo}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Обновить" Height="28" HorizontalAlignment="Left" Margin="559,20,0,0" Name="btUpdate" VerticalAlignment="Top" Width="95" Click="btUpdate_Click" />
+        <Button Content="Вернуться назад" Height="30" HorizontalAlignment="Left" Margin="559,54,0,0" Name="btBack" VerticalAlignment="Top" Width="95" Click="btBack_Click" />
+    </Grid>
+</Window>

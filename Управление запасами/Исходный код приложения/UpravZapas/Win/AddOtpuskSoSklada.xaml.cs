@@ -54,17 +54,23 @@ namespace Win
             i.Kolichestvo = Convert.ToInt32(tbKolich.Text);
             i.MaterialName = cbMaterial.SelectedItem.ToString();
             i.DataOtgruzk = Convert.ToDateTime(dpOtdr.Text + " " + tbTimeOtgr.Text);
-
-            if (id == 0)
+            try
             {
-                OtpuskSoSkladaDao.Add(i);
+                if (id == 0)
+                {
+                    OtpuskSoSkladaDao.Add(i);
+                }
+                else
+                {
+                    i.IDOtpusk = id;
+                    OtpuskSoSkladaDao.Update(i);
+                }
+                Close();
             }
-            else
+            catch
             {
-                i.IDOtpusk= id;
-                OtpuskSoSkladaDao.Update(i);
+                MessageBox.Show("Не удалось внести изменения в БД,\nпожелуйста проверьте введенные данные", "Ошибка");
             }
-            Close();
         }
 
         private void Loaded()

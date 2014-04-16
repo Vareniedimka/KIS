@@ -26,3 +26,8 @@ C:\Новая папка\KIS\Управление персоналом\ПЕРС�
 C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
 C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Новая папка\KIS\Управление персоналом\ПЕРСОНАЛ Исходный код\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Новая папка\KIS\Общее\Общее приложение Кис\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.pdb
