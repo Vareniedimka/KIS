@@ -1,0 +1,5 @@
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\ClassBD\bin\Release\ClassBD.dll
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\ClassBD\bin\Release\ClassBD.pdb
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\ClassBD\obj\Release\ResolveAssemblyReference.cache
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\ClassBD\obj\Release\ClassBD.dll
+Z:\Klass_13\kurs4\gr4-42\Колесов,Лохов\TPP\ClassBD\obj\Release\ClassBD.pdb
