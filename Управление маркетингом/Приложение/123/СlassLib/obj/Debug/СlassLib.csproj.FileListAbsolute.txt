@@ -1,0 +1,59 @@
+C:\Users\taj\Desktop\build\СlassLib\bin\Debug\СlassLib.dll
+C:\Users\taj\Desktop\build\СlassLib\bin\Debug\СlassLib.pdb
+C:\Users\taj\Desktop\build\СlassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taj\Desktop\build\СlassLib\obj\Debug\СlassLib.dll
+C:\Users\taj\Desktop\build\СlassLib\obj\Debug\СlassLib.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\СlassLib\bin\Debug\СlassLib.dll
+C:\Users\taj\Desktop\Практика\CD\приложения\СlassLib\bin\Debug\СlassLib.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\СlassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taj\Desktop\Практика\CD\приложения\СlassLib\obj\Debug\СlassLib.dll
+C:\Users\taj\Desktop\Практика\CD\приложения\СlassLib\obj\Debug\СlassLib.pdb
+D:\download\приложения\CD\приложения\СlassLib\bin\Debug\СlassLib.dll
+D:\download\приложения\CD\приложения\СlassLib\bin\Debug\СlassLib.pdb
+D:\download\приложения\CD\приложения\СlassLib\obj\Debug\СlassLib.csprojResolveAssemblyReference.cache
+D:\download\приложения\CD\приложения\СlassLib\obj\Debug\СlassLib.dll
+D:\download\приложения\CD\приложения\СlassLib\obj\Debug\СlassLib.pdb
+D:\CD\приложения\СlassLib\bin\Debug\СlassLib.dll
+D:\CD\приложения\СlassLib\bin\Debug\СlassLib.pdb
+D:\CD\приложения\СlassLib\obj\Debug\ResolveAssemblyReference.cache
+D:\CD\приложения\СlassLib\obj\Debug\СlassLib.dll
+D:\CD\приложения\СlassLib\obj\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\CD\приложения\СlassLib\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\CD\приложения\СlassLib\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\CD\приложения\СlassLib\obj\Debug\СlassLib.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\CD\приложения\СlassLib\obj\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\CD\приложения\СlassLib\obj\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\приложения\СlassLib\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\приложения\СlassLib\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\приложения\СlassLib\obj\Debug\СlassLib.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\приложения\СlassLib\obj\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\приложения\СlassLib\obj\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\СlassLib\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\СlassLib\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\СlassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\СlassLib\obj\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\СlassLib\obj\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\СlassLib\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\123\СlassLib\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\СlassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\123\СlassLib\obj\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\123\СlassLib\obj\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\123\СlassLib\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\123\СlassLib\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\123\СlassLib\obj\Debug\СlassLib.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\123\СlassLib\obj\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\123\СlassLib\obj\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\СlassLib\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\СlassLib\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\СlassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\СlassLib\obj\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\СlassLib\obj\Debug\СlassLib.pdb
+E:\123\СlassLib\bin\Debug\СlassLib.dll
+E:\123\СlassLib\bin\Debug\СlassLib.pdb
+E:\123\СlassLib\obj\Debug\ResolveAssemblyReference.cache
+E:\123\СlassLib\obj\Debug\СlassLib.dll
+E:\123\СlassLib\obj\Debug\СlassLib.pdb
+C:\Users\Дмитрий\Desktop\123\СlassLib\bin\Debug\СlassLib.dll
+C:\Users\Дмитрий\Desktop\123\СlassLib\bin\Debug\СlassLib.pdb
+C:\Users\Дмитрий\Desktop\123\СlassLib\obj\Debug\СlassLib.dll
+C:\Users\Дмитрий\Desktop\123\СlassLib\obj\Debug\СlassLib.pdb

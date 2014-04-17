@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\Desktop\123\build\bin\Release\build.dll.config
+C:\Users\Дмитрий\Desktop\123\build\bin\Release\build.dll
+C:\Users\Дмитрий\Desktop\123\build\bin\Release\build.pdb
+C:\Users\Дмитрий\Desktop\123\build\bin\Release\СlassLib.dll
+C:\Users\Дмитрий\Desktop\123\build\bin\Release\СlassLib.pdb
+C:\Users\Дмитрий\Desktop\123\build\obj\Release\build.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\123\build\obj\Release\build.dll
+C:\Users\Дмитрий\Desktop\123\build\obj\Release\build.pdb

@@ -80,7 +80,7 @@
         </DataGrid>
         
         <Menu Height="25" HorizontalAlignment="Stretch" Name="mainMenu" VerticalAlignment="Top" Grid.ColumnSpan="3" IsHitTestVisible="True">
-            <MenuItem Name="DataBase" Header="База данных">
+            <MenuItem Name="DataBase" Header="Выбор подсистем">
                 <MenuItem Name="dataBaseS" Header="Выход" Click="bConnect_Click" />
             </MenuItem>
             <MenuItem Name="Reports" Header="Отчеты">

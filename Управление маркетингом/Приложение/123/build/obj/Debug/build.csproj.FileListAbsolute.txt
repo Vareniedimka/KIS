@@ -1,0 +1,116 @@
+c:\users\taj\documents\visual studio 2010\Projects\build\build\obj\Debug\ResolveAssemblyReference.cache
+c:\users\taj\documents\visual studio 2010\Projects\build\build\bin\Debug\build.dll.config
+c:\users\taj\documents\visual studio 2010\Projects\build\build\bin\Debug\build.dll
+c:\users\taj\documents\visual studio 2010\Projects\build\build\bin\Debug\build.pdb
+c:\users\taj\documents\visual studio 2010\Projects\build\build\obj\Debug\build.dll
+c:\users\taj\documents\visual studio 2010\Projects\build\build\obj\Debug\build.pdb
+D:\wallpapers\build\build\bin\Debug\build.dll.config
+D:\wallpapers\build\build\bin\Debug\build.dll
+D:\wallpapers\build\build\bin\Debug\build.pdb
+D:\wallpapers\build\build\obj\Debug\ResolveAssemblyReference.cache
+D:\wallpapers\build\build\obj\Debug\build.dll
+D:\wallpapers\build\build\obj\Debug\build.pdb
+C:\Users\taj\Desktop\build\build\bin\Debug\build.dll.config
+C:\Users\taj\Desktop\build\build\bin\Debug\build.dll
+C:\Users\taj\Desktop\build\build\bin\Debug\build.pdb
+C:\Users\taj\Desktop\build\build\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taj\Desktop\build\build\obj\Debug\build.dll
+C:\Users\taj\Desktop\build\build\obj\Debug\build.pdb
+C:\Users\taj\Desktop\build\build\bin\Debug\СlassLib.dll
+C:\Users\taj\Desktop\build\build\bin\Debug\СlassLib.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\build\bin\Debug\build.dll.config
+C:\Users\taj\Desktop\Практика\CD\приложения\build\bin\Debug\build.dll
+C:\Users\taj\Desktop\Практика\CD\приложения\build\bin\Debug\build.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\build\bin\Debug\СlassLib.dll
+C:\Users\taj\Desktop\Практика\CD\приложения\build\bin\Debug\СlassLib.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\build\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taj\Desktop\Практика\CD\приложения\build\obj\Debug\build.dll
+C:\Users\taj\Desktop\Практика\CD\приложения\build\obj\Debug\build.pdb
+D:\download\приложения\CD\приложения\build\bin\Debug\build.dll.config
+D:\download\приложения\CD\приложения\build\bin\Debug\build.dll
+D:\download\приложения\CD\приложения\build\bin\Debug\build.pdb
+D:\download\приложения\CD\приложения\build\bin\Debug\СlassLib.dll
+D:\download\приложения\CD\приложения\build\bin\Debug\СlassLib.pdb
+D:\download\приложения\CD\приложения\build\obj\Debug\build.csprojResolveAssemblyReference.cache
+D:\download\приложения\CD\приложения\build\obj\Debug\build.dll
+D:\download\приложения\CD\приложения\build\obj\Debug\build.pdb
+D:\CD\приложения\build\bin\Debug\build.dll.config
+D:\CD\приложения\build\bin\Debug\build.dll
+D:\CD\приложения\build\bin\Debug\build.pdb
+D:\CD\приложения\build\bin\Debug\СlassLib.dll
+D:\CD\приложения\build\bin\Debug\СlassLib.pdb
+D:\CD\приложения\build\obj\Debug\ResolveAssemblyReference.cache
+D:\CD\приложения\build\obj\Debug\build.dll
+D:\CD\приложения\build\obj\Debug\build.pdb
+C:\Users\Klane\Desktop\CD\приложения\build\bin\Debug\build.dll.config
+C:\Users\Klane\Desktop\CD\приложения\build\bin\Debug\build.dll
+C:\Users\Klane\Desktop\CD\приложения\build\bin\Debug\build.pdb
+C:\Users\Klane\Desktop\CD\приложения\build\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\CD\приложения\build\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\CD\приложения\build\obj\Debug\build.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\CD\приложения\build\obj\Debug\build.dll
+C:\Users\Klane\Desktop\CD\приложения\build\obj\Debug\build.pdb
+C:\Users\Klane\Desktop\приложения\build\bin\Debug\build.dll.config
+C:\Users\Klane\Desktop\приложения\build\bin\Debug\build.dll
+C:\Users\Klane\Desktop\приложения\build\bin\Debug\build.pdb
+C:\Users\Klane\Desktop\приложения\build\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\приложения\build\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\приложения\build\obj\Debug\build.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\приложения\build\obj\Debug\build.dll
+C:\Users\Klane\Desktop\приложения\build\obj\Debug\build.pdb
+E:\лфбффффф\build\bin\Debug\build.dll.config
+E:\лфбффффф\build\bin\Debug\build.dll
+E:\лфбффффф\build\bin\Debug\build.pdb
+E:\лфбффффф\build\bin\Debug\СlassLib.dll
+E:\лфбффффф\build\bin\Debug\СlassLib.pdb
+E:\лфбффффф\build\obj\Debug\ResolveAssemblyReference.cache
+E:\лфбффффф\build\obj\Debug\build.dll
+E:\лфбффффф\build\obj\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\bin\Debug\build.dll.config
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\bin\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\bin\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\obj\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\build\obj\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\build\bin\Debug\build.dll.config
+C:\Documents and Settings\dk13\Рабочий стол\123\build\bin\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\123\build\bin\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\build\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\123\build\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\build\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\123\build\obj\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\123\build\obj\Debug\build.pdb
+C:\Users\Klane\Desktop\123\build\bin\Debug\build.dll.config
+C:\Users\Klane\Desktop\123\build\bin\Debug\build.dll
+C:\Users\Klane\Desktop\123\build\bin\Debug\build.pdb
+C:\Users\Klane\Desktop\123\build\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\123\build\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\123\build\obj\Debug\build.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\123\build\obj\Debug\build.dll
+C:\Users\Klane\Desktop\123\build\obj\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\obj\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\bin\Debug\build.dll.config
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\bin\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\bin\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\build\obj\Debug\build.pdb
+E:\123\build\bin\Debug\build.dll.config
+E:\123\build\bin\Debug\build.dll
+E:\123\build\bin\Debug\build.pdb
+E:\123\build\bin\Debug\СlassLib.dll
+E:\123\build\bin\Debug\СlassLib.pdb
+E:\123\build\obj\Debug\ResolveAssemblyReference.cache
+E:\123\build\obj\Debug\build.dll
+E:\123\build\obj\Debug\build.pdb
+C:\Users\Дмитрий\Desktop\123\build\bin\Debug\build.dll.config
+C:\Users\Дмитрий\Desktop\123\build\bin\Debug\build.dll
+C:\Users\Дмитрий\Desktop\123\build\bin\Debug\build.pdb
+C:\Users\Дмитрий\Desktop\123\build\bin\Debug\СlassLib.dll
+C:\Users\Дмитрий\Desktop\123\build\bin\Debug\СlassLib.pdb
+C:\Users\Дмитрий\Desktop\123\build\obj\Debug\build.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\123\build\obj\Debug\build.dll
+C:\Users\Дмитрий\Desktop\123\build\obj\Debug\build.pdb

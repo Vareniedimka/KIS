@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\Desktop\123\СlassLib\bin\Release\СlassLib.dll
+C:\Users\Дмитрий\Desktop\123\СlassLib\bin\Release\СlassLib.pdb
+C:\Users\Дмитрий\Desktop\123\СlassLib\obj\Release\СlassLib.dll
+C:\Users\Дмитрий\Desktop\123\СlassLib\obj\Release\СlassLib.pdb

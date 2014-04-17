@@ -90,6 +90,11 @@ namespace LoginApp
                             pathApp = "OsPr\\Win.exe";
                             break;
                         }
+                    case 2:
+                        {
+                            pathApp = "Mar\\Web.exe";
+                            break;
+                        }
                     case 3:
                         {
                             pathApp = "VSp\\win.exe";

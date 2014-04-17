@@ -1,0 +1,11 @@
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\ConnectWin.baml
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\MainWindow.baml
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\ConnectWin.g.cs
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\MainWindow.g.cs
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\App.g.cs
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\MainWindow_MarkupCompile.cache
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\MainWindow.g.resources
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\MainWindow.Properties.Resources.resources
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\taj\documents\visual studio 2010\Projects\build\MainWindow\obj\x86\Debug\GenerateResource.write.1.tlog

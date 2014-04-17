@@ -1,0 +1,397 @@
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\bin\Debug\Web.exe
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\bin\Debug\Web.pdb
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\MainWindow.baml
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\MainWindow.g.cs
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\App.g.cs
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\Web_MarkupCompile.cache
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\Web.g.resources
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\Web.Properties.Resources.resources
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\Web.exe
+c:\users\taj\documents\visual studio 2010\Projects\build\Web\obj\x86\Debug\Web.pdb
+D:\wallpapers\build\Web\bin\Debug\Web.exe
+D:\wallpapers\build\Web\bin\Debug\Web.pdb
+D:\wallpapers\build\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wallpapers\build\Web\obj\x86\Debug\MainWindow.baml
+D:\wallpapers\build\Web\obj\x86\Debug\MainWindow.g.cs
+D:\wallpapers\build\Web\obj\x86\Debug\App.g.cs
+D:\wallpapers\build\Web\obj\x86\Debug\Web_MarkupCompile.cache
+D:\wallpapers\build\Web\obj\x86\Debug\Web.g.resources
+D:\wallpapers\build\Web\obj\x86\Debug\Web.Properties.Resources.resources
+D:\wallpapers\build\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\wallpapers\build\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\wallpapers\build\Web\obj\x86\Debug\Web.exe
+D:\wallpapers\build\Web\obj\x86\Debug\Web.pdb
+D:\wallpapers\build\Web\bin\Debug\build.dll
+D:\wallpapers\build\Web\bin\Debug\build.pdb
+D:\wallpapers\build\Web\obj\x86\Debug\ConnectWin.baml
+D:\wallpapers\build\Web\obj\x86\Debug\ConnectWin.g.cs
+D:\wallpapers\build\Web\obj\x86\Debug\AddNapravlenie.baml
+D:\wallpapers\build\Web\obj\x86\Debug\AddObrasheniya.baml
+D:\wallpapers\build\Web\obj\x86\Debug\AddPacient.baml
+D:\wallpapers\build\Web\obj\x86\Debug\AddVrach.baml
+D:\wallpapers\build\Web\obj\x86\Debug\AddNapravlenie.g.cs
+D:\wallpapers\build\Web\obj\x86\Debug\AddObrasheniya.g.cs
+D:\wallpapers\build\Web\obj\x86\Debug\AddPacient.g.cs
+D:\wallpapers\build\Web\obj\x86\Debug\AddVrach.g.cs
+D:\wallpapers\build\Web\obj\x86\Debug\Web.Form1.resources
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\Web.exe
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\Web.pdb
+C:\Users\taj\Desktop\build\Web\bin\Debug\Web.exe
+C:\Users\taj\Desktop\build\Web\bin\Debug\Web.pdb
+C:\Users\taj\Desktop\build\Web\bin\Debug\build.dll
+C:\Users\taj\Desktop\build\Web\bin\Debug\build.pdb
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddNapravlenie.baml
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddObrasheniya.baml
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddPacient.baml
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddVrach.baml
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\ConnectWin.baml
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\MainWindow.baml
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddNapravlenie.g.cs
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddObrasheniya.g.cs
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddPacient.g.cs
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\AddVrach.g.cs
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\App.g.cs
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\Web.g.resources
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\Web.Form1.resources
+C:\Users\taj\Desktop\build\Web\bin\Debug\СlassLib.dll
+C:\Users\taj\Desktop\build\Web\bin\Debug\СlassLib.pdb
+C:\Users\taj\Desktop\build\Web\obj\x86\Debug\Web.Программе.resources
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\Web.exe
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\Web.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\bin\Debug\Web.exe
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\bin\Debug\Web.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\bin\Debug\build.dll
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\bin\Debug\СlassLib.dll
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\bin\Debug\build.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\bin\Debug\СlassLib.pdb
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.baml
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.baml
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddPacient.baml
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddVrach.baml
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\ConnectWin.baml
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\MainWindow.baml
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.g.cs
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.g.cs
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddPacient.g.cs
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\AddVrach.g.cs
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\App.g.cs
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\Web.g.resources
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\Web.Form1.resources
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\Web.Программе.resources
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\taj\Desktop\Практика\CD\приложения\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.exe
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.pdb
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.csprojResolveAssemblyReference.cache
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.baml
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.baml
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddPacient.baml
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddVrach.baml
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\ConnectWin.baml
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\MainWindow.baml
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.g.cs
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.g.cs
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddPacient.g.cs
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\AddVrach.g.cs
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\ConnectWin.g.cs
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\MainWindow.g.cs
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\App.g.cs
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web_MarkupCompile.cache
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.g.resources
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.Form1.resources
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.Программе.resources
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.Properties.Resources.resources
+D:\download\приложения\CD\приложения\Web\obj\x86\Debug\Web.csproj.GenerateResource.Cache
+D:\download\приложения\CD\приложения\Web\bin\Debug\Web.exe
+D:\download\приложения\CD\приложения\Web\bin\Debug\Web.pdb
+D:\download\приложения\CD\приложения\Web\bin\Debug\build.dll
+D:\download\приложения\CD\приложения\Web\bin\Debug\СlassLib.dll
+D:\download\приложения\CD\приложения\Web\bin\Debug\build.pdb
+D:\download\приложения\CD\приложения\Web\bin\Debug\СlassLib.pdb
+D:\CD\приложения\Web\obj\x86\Debug\Web.exe
+D:\CD\приложения\Web\obj\x86\Debug\Web.pdb
+D:\CD\приложения\Web\bin\Debug\Web.exe
+D:\CD\приложения\Web\bin\Debug\Web.pdb
+D:\CD\приложения\Web\bin\Debug\build.dll
+D:\CD\приложения\Web\bin\Debug\СlassLib.dll
+D:\CD\приложения\Web\bin\Debug\build.pdb
+D:\CD\приложения\Web\bin\Debug\СlassLib.pdb
+D:\CD\приложения\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.baml
+D:\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.baml
+D:\CD\приложения\Web\obj\x86\Debug\AddPacient.baml
+D:\CD\приложения\Web\obj\x86\Debug\AddVrach.baml
+D:\CD\приложения\Web\obj\x86\Debug\ConnectWin.baml
+D:\CD\приложения\Web\obj\x86\Debug\MainWindow.baml
+D:\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.g.cs
+D:\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.g.cs
+D:\CD\приложения\Web\obj\x86\Debug\AddPacient.g.cs
+D:\CD\приложения\Web\obj\x86\Debug\AddVrach.g.cs
+D:\CD\приложения\Web\obj\x86\Debug\ConnectWin.g.cs
+D:\CD\приложения\Web\obj\x86\Debug\MainWindow.g.cs
+D:\CD\приложения\Web\obj\x86\Debug\App.g.cs
+D:\CD\приложения\Web\obj\x86\Debug\Web_MarkupCompile.cache
+D:\CD\приложения\Web\obj\x86\Debug\Web.g.resources
+D:\CD\приложения\Web\obj\x86\Debug\Web.Form1.resources
+D:\CD\приложения\Web\obj\x86\Debug\Web.Программе.resources
+D:\CD\приложения\Web\obj\x86\Debug\Web.Properties.Resources.resources
+D:\CD\приложения\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CD\приложения\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.exe
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.pdb
+C:\Users\Klane\Desktop\CD\приложения\Web\bin\Debug\Web.exe
+C:\Users\Klane\Desktop\CD\приложения\Web\bin\Debug\Web.pdb
+C:\Users\Klane\Desktop\CD\приложения\Web\bin\Debug\build.dll
+C:\Users\Klane\Desktop\CD\приложения\Web\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\CD\приложения\Web\bin\Debug\build.pdb
+C:\Users\Klane\Desktop\CD\приложения\Web\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.baml
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.baml
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddPacient.baml
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddVrach.baml
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\ConnectWin.baml
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\MainWindow.baml
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddNapravlenie.g.cs
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddObrasheniya.g.cs
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddPacient.g.cs
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\AddVrach.g.cs
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\App.g.cs
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.g.resources
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.Form1.resources
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.Программе.resources
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Users\Klane\Desktop\CD\приложения\Web\obj\x86\Debug\Web.csproj.GenerateResource.Cache
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.exe
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.pdb
+C:\Users\Klane\Desktop\приложения\Web\bin\Debug\Web.exe
+C:\Users\Klane\Desktop\приложения\Web\bin\Debug\Web.pdb
+C:\Users\Klane\Desktop\приложения\Web\bin\Debug\build.dll
+C:\Users\Klane\Desktop\приложения\Web\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\приложения\Web\bin\Debug\build.pdb
+C:\Users\Klane\Desktop\приложения\Web\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\ConnectWin.baml
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\MainWindow.baml
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\App.g.cs
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.g.resources
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.Form1.resources
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.Программе.resources
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\Web.csproj.GenerateResource.Cache
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\AddKlient.baml
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\AddTovarnPlan.baml
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\AddZakaz.baml
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\AddKlient.g.cs
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+C:\Users\Klane\Desktop\приложения\Web\obj\x86\Debug\AddZakaz.g.cs
+E:\лфбффффф\Web\obj\x86\Debug\Web.exe
+E:\лфбффффф\Web\obj\x86\Debug\Web.pdb
+E:\лфбффффф\Web\bin\Debug\Web.exe
+E:\лфбффффф\Web\bin\Debug\Web.pdb
+E:\лфбффффф\Web\bin\Debug\build.dll
+E:\лфбффффф\Web\bin\Debug\СlassLib.dll
+E:\лфбффффф\Web\bin\Debug\build.pdb
+E:\лфбффффф\Web\bin\Debug\СlassLib.pdb
+E:\лфбффффф\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\лфбффффф\Web\obj\x86\Debug\AddKlient.baml
+E:\лфбффффф\Web\obj\x86\Debug\AddTovarnPlan.baml
+E:\лфбффффф\Web\obj\x86\Debug\AddZakaz.baml
+E:\лфбффффф\Web\obj\x86\Debug\ConnectWin.baml
+E:\лфбффффф\Web\obj\x86\Debug\MainWindow.baml
+E:\лфбффффф\Web\obj\x86\Debug\AddKlient.g.cs
+E:\лфбффффф\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+E:\лфбффффф\Web\obj\x86\Debug\AddZakaz.g.cs
+E:\лфбффффф\Web\obj\x86\Debug\ConnectWin.g.cs
+E:\лфбффффф\Web\obj\x86\Debug\MainWindow.g.cs
+E:\лфбффффф\Web\obj\x86\Debug\App.g.cs
+E:\лфбффффф\Web\obj\x86\Debug\Web_MarkupCompile.cache
+E:\лфбффффф\Web\obj\x86\Debug\Web.g.resources
+E:\лфбффффф\Web\obj\x86\Debug\Web.Form1.resources
+E:\лфбффффф\Web\obj\x86\Debug\Web.Программе.resources
+E:\лфбффффф\Web\obj\x86\Debug\Web.Properties.Resources.resources
+E:\лфбффффф\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\лфбффффф\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\Web.exe
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\Web.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\bin\Debug\Web.exe
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\bin\Debug\Web.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\bin\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\bin\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\AddKlient.baml
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\AddTovarnPlan.baml
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\AddZakaz.baml
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\ConnectWin.baml
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\AddKlient.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\AddZakaz.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\Web.g.resources
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\Web.Form1.resources
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\Web.Программе.resources
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\лфбффффф\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\Web.exe
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\Web.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\bin\Debug\Web.exe
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\bin\Debug\Web.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\bin\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\bin\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\AddKlient.baml
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\AddTovarnPlan.baml
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\AddZakaz.baml
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\ConnectWin.baml
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\AddKlient.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\AddZakaz.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\Web.g.resources
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\Web.Form1.resources
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\Web.Программе.resources
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\123\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\лфбффффф\123\Web\obj\x86\Debug\Web.exe
+G:\лфбффффф\123\Web\obj\x86\Debug\Web.pdb
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.exe
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.pdb
+C:\Users\Klane\Desktop\123\Web\bin\Debug\Web.exe
+C:\Users\Klane\Desktop\123\Web\bin\Debug\Web.pdb
+C:\Users\Klane\Desktop\123\Web\bin\Debug\build.dll
+C:\Users\Klane\Desktop\123\Web\bin\Debug\СlassLib.dll
+C:\Users\Klane\Desktop\123\Web\bin\Debug\build.pdb
+C:\Users\Klane\Desktop\123\Web\bin\Debug\СlassLib.pdb
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\AddKlient.baml
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\AddTovarnPlan.baml
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\AddZakaz.baml
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\ConnectWin.baml
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\MainWindow.baml
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\AddKlient.g.cs
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\AddZakaz.g.cs
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\App.g.cs
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.g.resources
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.Form1.resources
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.Программе.resources
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Users\Klane\Desktop\123\Web\obj\x86\Debug\Web.csproj.GenerateResource.Cache
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\Web.exe
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\Web.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\AddKlient.baml
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\AddTovarnPlan.baml
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\AddZakaz.baml
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\ConnectWin.baml
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\AddKlient.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\AddZakaz.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\Web.g.resources
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\Web.Form1.resources
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\Web.Программе.resources
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\bin\Debug\Web.exe
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\bin\Debug\build.dll
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\bin\Debug\СlassLib.dll
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\bin\Debug\build.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\bin\Debug\СlassLib.pdb
+C:\Documents and Settings\dk13\Рабочий стол\Новая папка\123\123\Web\bin\Debug\Web.pdb
+E:\123\Web\bin\Debug\Web.exe
+E:\123\Web\bin\Debug\Web.pdb
+E:\123\Web\bin\Debug\build.dll
+E:\123\Web\bin\Debug\СlassLib.dll
+E:\123\Web\bin\Debug\build.pdb
+E:\123\Web\bin\Debug\СlassLib.pdb
+E:\123\Web\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\123\Web\obj\x86\Debug\AddKlient.baml
+E:\123\Web\obj\x86\Debug\AddTovarnPlan.baml
+E:\123\Web\obj\x86\Debug\AddZakaz.baml
+E:\123\Web\obj\x86\Debug\ConnectWin.baml
+E:\123\Web\obj\x86\Debug\MainWindow.baml
+E:\123\Web\obj\x86\Debug\AddKlient.g.cs
+E:\123\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+E:\123\Web\obj\x86\Debug\AddZakaz.g.cs
+E:\123\Web\obj\x86\Debug\ConnectWin.g.cs
+E:\123\Web\obj\x86\Debug\MainWindow.g.cs
+E:\123\Web\obj\x86\Debug\App.g.cs
+E:\123\Web\obj\x86\Debug\Web_MarkupCompile.cache
+E:\123\Web\obj\x86\Debug\Web.g.resources
+E:\123\Web\obj\x86\Debug\Web.Form1.resources
+E:\123\Web\obj\x86\Debug\Web.Программе.resources
+E:\123\Web\obj\x86\Debug\Web.Properties.Resources.resources
+E:\123\Web\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\123\Web\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\123\Web\obj\x86\Debug\Web.exe
+E:\123\Web\obj\x86\Debug\Web.pdb
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.exe
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.pdb
+C:\Users\Дмитрий\Desktop\123\Web\bin\Debug\Web.exe
+C:\Users\Дмитрий\Desktop\123\Web\bin\Debug\Web.pdb
+C:\Users\Дмитрий\Desktop\123\Web\bin\Debug\build.dll
+C:\Users\Дмитрий\Desktop\123\Web\bin\Debug\СlassLib.dll
+C:\Users\Дмитрий\Desktop\123\Web\bin\Debug\build.pdb
+C:\Users\Дмитрий\Desktop\123\Web\bin\Debug\СlassLib.pdb
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\AddKlient.baml
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\AddTovarnPlan.baml
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\AddZakaz.baml
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\ConnectWin.baml
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\MainWindow.baml
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\AddKlient.g.cs
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\AddTovarnPlan.g.cs
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\AddZakaz.g.cs
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\ConnectWin.g.cs
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\App.g.cs
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web_MarkupCompile.cache
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.g.resources
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.Form1.resources
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.Программе.resources
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\123\Web\obj\x86\Debug\Web.csproj.GenerateResource.Cache
