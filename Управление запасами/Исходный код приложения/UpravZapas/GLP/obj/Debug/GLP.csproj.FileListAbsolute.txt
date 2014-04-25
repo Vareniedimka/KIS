@@ -52,3 +52,11 @@ G:\Кис приложение\Исходный код приложения\Upra
 G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
 G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\obj\Debug\GLP.dll
 G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\obj\Debug\GLP.pdb
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\GLP.dll.config
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\GLP.dll
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\GLP.pdb
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\obj\Debug\GLP.dll
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\obj\Debug\GLP.pdb

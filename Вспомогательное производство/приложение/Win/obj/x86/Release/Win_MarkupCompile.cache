@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\Кис приложение\Исходный код приложения\UpravZapas\Win\obj\x86\Release\
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Release\
 Win
 none
 false
 TRACE
-G:\Кис приложение\Исходный код приложения\UpravZapas\Win\App.xaml
-7461168857
+C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\App.xaml
+5209346756
 
-121375715537
-19172036085
-AddMaterial.xaml;AddMaterialPostav.xaml;AddZakaz.xaml;AddOtpuskSoSklada.xaml;MainWindow.xaml;AddZapas.xaml;AddPostavhik.xaml;
+101418942985
+19939519009
+AddDetdlyarem.xaml;AddStanok_na_proizv.xaml;AddGraficRabot.xaml;ConnectWin.xaml;MainWindow.xaml;
 
 False
 

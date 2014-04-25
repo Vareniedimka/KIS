@@ -10,10 +10,4 @@
     <FallbackCulture>ru-RU</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
-  <PropertyGroup>
-    <EnableSecurityDebugging>false</EnableSecurityDebugging>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <StartArguments>ДМИТРИЙ-ПК OPP lolo 1</StartArguments>
-  </PropertyGroup>
 </Project>

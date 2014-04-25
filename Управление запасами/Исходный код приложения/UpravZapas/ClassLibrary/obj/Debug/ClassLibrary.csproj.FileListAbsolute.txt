@@ -16,3 +16,8 @@ D:\наш.кис\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLib
 D:\наш.кис\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.pdb
 D:\наш.кис\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.dll
 D:\наш.кис\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.pdb
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.dll
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.pdb
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.dll
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.pdb

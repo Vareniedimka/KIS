@@ -40,14 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Postavhik.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="MaterialPostav.cs" />
-    <Compile Include="Zakaz.cs" />
-    <Compile Include="OtpuskSoSklada.cs" />
+    <Compile Include="Stanok_na_proizv.cs" />
+    <Compile Include="GraficRabot.cs" />
     <Compile Include="ForFind.cs" />
-    <Compile Include="Zapasi.cs" />
-    <Compile Include="Material.cs" />
+    <Compile Include="Detdlyarem.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

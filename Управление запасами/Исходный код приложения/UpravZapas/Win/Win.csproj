@@ -105,6 +105,9 @@
     <Compile Include="AddPostavhik.xaml.cs">
       <DependentUpon>AddPostavhik.xaml</DependentUpon>
     </Compile>
+    <Compile Include="WindowZapros.xaml.cs">
+      <DependentUpon>WindowZapros.xaml</DependentUpon>
+    </Compile>
     <Page Include="AddMaterial.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -153,6 +156,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="AddPostavhik.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="WindowZapros.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -260,6 +267,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\otpusk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\material.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\zapas.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

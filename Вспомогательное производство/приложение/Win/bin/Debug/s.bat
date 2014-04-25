@@ -1,1 +1,0 @@
-win.exe (local) AvtoK UZ/S 12345

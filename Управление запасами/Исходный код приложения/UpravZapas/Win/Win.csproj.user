@@ -14,6 +14,6 @@
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <StartArguments>%28local%29 AvtoK S 12345</StartArguments>
+    <StartArguments>ДМИТРИЙ-ПК OPP lolo 1</StartArguments>
   </PropertyGroup>
 </Project>

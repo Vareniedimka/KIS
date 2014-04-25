@@ -35,7 +35,7 @@ namespace Win
             //получаем параметры запуска
             var args = Environment.GetCommandLineArgs();
             //Вводим параметры подключения
-            Connect.setConnectInfo(args[1],args[2], args[3], args[4]);
+            Connect.setConnectInfo(args[1],args[2]);
 
             try
             {
@@ -563,6 +563,12 @@ namespace Win
             f.ShowDialog();
             dgPostavhik = dg;
 
+        }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            var m = new WindowZapros();
+            m.Show();
         }
     }
 }

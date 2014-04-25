@@ -48,13 +48,10 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>ConnectSet.settings</DependentUpon>
     </Compile>
-    <Compile Include="PostavhikDao.cs" />
-    <Compile Include="OtpuskSoSkladaDao.cs" />
+    <Compile Include="GraficRabotDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="MaterialPostavDao.cs" />
-    <Compile Include="ZakazDao.cs" />
-    <Compile Include="ZapasDao.cs" />
-    <Compile Include="MaterialDao.cs" />
+    <Compile Include="Stanok_na_proizvDao.cs" />
+    <Compile Include="DetdlyaremDao.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

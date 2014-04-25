@@ -44,19 +44,30 @@ D:\Кис приложение\Исходный код\Kursach\GLP\bin\Debug\Cla
 D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\ResolveAssemblyReference.cache
 D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.dll
 D:\Кис приложение\Исходный код\Kursach\GLP\obj\Debug\GLP.pdb
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\bin\Debug\GLP.dll.config
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\bin\Debug\GLP.dll
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\bin\Debug\GLP.pdb
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\obj\Debug\GLP.dll
-G:\Кис приложение\Исходный код приложения\UpravZapas\GLP\obj\Debug\GLP.pdb
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\GLP.dll.config
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\GLP.dll
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\GLP.pdb
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\ClassLibrary.dll
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\bin\Debug\ClassLibrary.pdb
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\obj\Debug\GLP.dll
-G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\GLP\obj\Debug\GLP.pdb
+E:\Вспомогательное производство\приложение\GLP\obj\Debug\ResolveAssemblyReference.cache
+E:\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.dll
+E:\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\obj\Debug\ResolveAssemblyReference.cache
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\obj\Debug\GLP.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\GLP.dll.config
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\GLP.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\GLP.pdb
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\ClassLibrary.dll
+L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\GLP\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\GLP.dll.config
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\GLP.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\GLP.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\obj\Debug\GLP.dll
+C:\Documents and Settings\dk13\Рабочий стол\приложение\GLP\obj\Debug\GLP.pdb
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\obj\Debug\GLP.csprojResolveAssemblyReference.cache
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\obj\Debug\GLP.dll
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\bin\Debug\GLP.dll.config
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\bin\Debug\GLP.dll
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\bin\Debug\GLP.pdb
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\bin\Debug\ClassLibrary.dll
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\bin\Debug\ClassLibrary.pdb
+D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\GLP\obj\Debug\GLP.pdb

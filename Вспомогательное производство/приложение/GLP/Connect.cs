@@ -17,8 +17,9 @@ namespace GLP
         /// <param name="dataBase"></param>
         /// <param name="login"></param>
         /// <param name="password"></param>
-        public static void setConnectInfo(string server,string dataBase, string login, string password){
-            connectInfo = "Data Source=" + server + "; Initial Catalog=" + dataBase + "; Integrated Security=false; User ID=" + login + "; Password=" + password;    
+        public static void setConnectInfo(string server, string dataBase, string login, string password)
+        {
+            connectInfo = "Data Source=" + server + "; Initial Catalog=" + dataBase + "; Integrated Security=false; User ID=" + login + "; Password=" + password;
         }
 
         /// <summary>
@@ -30,15 +31,15 @@ namespace GLP
         {
             connectInfo = "Data Source=" + server + "; Initial Catalog=" + dataBase + "; Integrated Security=true";
         }
-       /* /// <summary>
-        /// Сохраняет в файл строку подключения s
-        /// </summary>
-        /// <param name="s">Строка подключения</param>
-        public static void ConnectSave(string s) {
-            ConnectSet c = ConnectSet.Default;
-            c.ConnectString = s;
-            c.Save();
-        }*/
+        /* /// <summary>
+         /// Сохраняет в файл строку подключения s
+         /// </summary>
+         /// <param name="s">Строка подключения</param>
+         public static void ConnectSave(string s) {
+             ConnectSet c = ConnectSet.Default;
+             c.ConnectString = s;
+             c.Save();
+         }*/
         /// <summary>
         /// Возвращает подключение
         /// </summary>
@@ -46,8 +47,8 @@ namespace GLP
         public static SqlConnection GetConnect()
         {
             return new SqlConnection(connectInfo);
-	       // return new SqlConnection(ConnectSet.Default.ConnectString);
+            // return new SqlConnection(ConnectSet.Default.ConnectString);
         }
- 
+
     }
 }
