@@ -16,16 +16,8 @@ D:\наш.кис\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLib
 D:\наш.кис\Исходный код\Kursach\ClassLibrary\obj\Debug\ClassLibrary.pdb
 D:\наш.кис\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.dll
 D:\наш.кис\Исходный код\Kursach\ClassLibrary\bin\Debug\ClassLibrary.pdb
-E:\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
-E:\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.dll
-E:\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb
-L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
-L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.dll
-L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb
-L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\bin\Debug\ClassLibrary.dll
-L:\Klass_13\kurs4\gr4-42\Козлова,Рокицкая\Вспомогательное производство\приложение\ClassLibrary\bin\Debug\ClassLibrary.pdb
-C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\bin\Debug\ClassLibrary.dll
-C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\bin\Debug\ClassLibrary.pdb
-C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ClassLibrary.dll
-C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.dll
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\bin\Debug\ClassLibrary.pdb
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.dll
+G:\Общее приложение Кис\Приложение Управление запасами исходники\UpravZapas\ClassLibrary\obj\Debug\ClassLibrary.pdb

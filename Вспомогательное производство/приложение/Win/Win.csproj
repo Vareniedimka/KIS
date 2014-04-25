@@ -99,41 +99,50 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="AddDetdlyarem.xaml">
+    <Compile Include="AddZapas.xaml.cs">
+      <DependentUpon>AddZapas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddPostavhik.xaml.cs">
+      <DependentUpon>AddPostavhik.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WindowZapros.xaml.cs">
+      <DependentUpon>WindowZapros.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AddMaterial.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="AddStanok_na_proizv.xaml">
+    <Page Include="AddMaterialPostav.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="AddGraficRabot.xaml">
+    <Page Include="AddZakaz.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ConnectWin.xaml">
-      <Generator>MSBuild:Compile</Generator>
+    <Page Include="AddOtpuskSoSklada.xaml">
       <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="AddDetdlyarem.xaml.cs">
-      <DependentUpon>AddDetdlyarem.xaml</DependentUpon>
+    <Compile Include="AddMaterial.xaml.cs">
+      <DependentUpon>AddMaterial.xaml</DependentUpon>
     </Compile>
-    <Compile Include="AddStanok_na_proizv.xaml.cs">
-      <DependentUpon>AddStanok_na_proizv.xaml</DependentUpon>
+    <Compile Include="AddMaterialPostav.xaml.cs">
+      <DependentUpon>AddMaterialPostav.xaml</DependentUpon>
     </Compile>
-    <Compile Include="AddGraficRabot.xaml.cs">
-      <DependentUpon>AddGraficRabot.xaml</DependentUpon>
+    <Compile Include="AddZakaz.xaml.cs">
+      <DependentUpon>AddZakaz.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddOtpuskSoSklada.xaml.cs">
+      <DependentUpon>AddOtpuskSoSklada.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="ConnectWin.xaml.cs">
-      <DependentUpon>ConnectWin.xaml</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -142,6 +151,18 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="AddZapas.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="AddPostavhik.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="WindowZapros.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -234,6 +255,24 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="phppg_1666.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\zakaz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MatPost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\postav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\otpusk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\material.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\zapas.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
