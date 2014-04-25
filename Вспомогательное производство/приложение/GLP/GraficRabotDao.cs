@@ -17,7 +17,7 @@ namespace GLP
             // набора данных
             item.DateNachRemont = Convert.ToDateTime(r["Date_nach_remont"]);
             item.VnepanRem = Convert.ToDateTime(r["Vnepan_rem"]);
-            item.NaimenovanieDet = Convert.ToChar(r["Naimenovanie_det"]);
+            item.NaimenovanieDet = Convert.ToString(r["Naimenovanie_det"]);
          //  item.PlanProverkOborud = Convert.ToString(r["PlanProverkOborud"]);
             item.InvertatniyNomer = Convert.ToInt32(r["Invertatniy_nomer"]);
             item.DataOkonchRem = Convert.ToDateTime(r["Data_okonch_rem"]);

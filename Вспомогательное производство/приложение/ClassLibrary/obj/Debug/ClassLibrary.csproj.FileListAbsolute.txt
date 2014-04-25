@@ -29,8 +29,3 @@ C:\Documents and Settings\dk13\Рабочий стол\приложение\Clas
 C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Documents and Settings\dk13\Рабочий стол\приложение\ClassLibrary\obj\Debug\ClassLibrary.pdb
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\ClassLibrary\bin\Debug\ClassLibrary.dll
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\ClassLibrary\bin\Debug\ClassLibrary.pdb
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\ClassLibrary\obj\Debug\ClassLibrary.dll
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\ClassLibrary\obj\Debug\ClassLibrary.pdb

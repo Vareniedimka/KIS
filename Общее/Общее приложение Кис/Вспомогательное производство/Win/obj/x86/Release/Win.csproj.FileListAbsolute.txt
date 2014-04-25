@@ -28,3 +28,5 @@ C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\
 C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Release\Win.application
 C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Release\Win.exe
 C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Release\Win.pdb
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Release\Win.exe
+C:\Новая папка\KIS\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Release\Win.pdb

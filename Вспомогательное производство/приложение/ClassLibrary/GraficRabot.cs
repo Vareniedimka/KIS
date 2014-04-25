@@ -11,7 +11,7 @@ namespace ClassLibrary
         public string PlanProverkOborud { get; set; }
 
         public DateTime VnepanRem { get; set; }
-        public char NaimenovanieDet { get; set; }
+        public string NaimenovanieDet { get; set; }
 
         public int InvertatniyNomer { get; set; }
 

@@ -316,30 +316,3 @@ C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\
 C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.exe.manifest
 C:\Documents and Settings\dk13\Рабочий стол\приложение\Win\obj\x86\Debug\Win.application
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.exe
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.pdb
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\AddDetdlyarem.baml
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\AddStanok_na_proizv.baml
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\AddGraficRabot.baml
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\MainWindow.baml
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\AddDetdlyarem.g.cs
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\AddStanok_na_proizv.g.cs
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\AddGraficRabot.g.cs
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\MainWindow.g.cs
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\App.g.cs
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win_MarkupCompile.cache
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.g.resources
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\VRA.Form1.resources
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.Properties.Resources.resources
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\Win.exe.manifest
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\Win.application
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\Win.exe
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\Win.pdb
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\ClassLibrary.dll
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\GLP.dll
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\ClassLibrary.pdb
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\bin\Debug\GLP.pdb
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.exe.manifest
-D:\4 Курс(2 семестр\KIS.git\Общее\Общее приложение Кис\Вспомогательное производство\Win\obj\x86\Debug\Win.application

@@ -61,7 +61,7 @@ namespace Win
             i.DataOkonchRem = (DateTime)cbDate_okonch_remont.SelectedDate;
             i.VnepanRem = (DateTime)cbVnepan_Rem.SelectedDate; ;
             i.PlanProverkOborud = Plan_proverk_oborud.ToString();
-            i.NaimenovanieDet =  Convert.ToChar(cbNaimenovanie_det.SelectedItem.ToString());
+            i.NaimenovanieDet = cbNaimenovanie_det.SelectedItem.ToString();
            
 
             if (id == 0)

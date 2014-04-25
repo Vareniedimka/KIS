@@ -58,16 +58,14 @@ namespace Win
         public MainWindow()
         {
             InitializeComponent();
-            //получаем параметры запуска
-            var args = Environment.GetCommandLineArgs();           
-            Connect.setConnectInfo(args[1], args[2], args[3], args[4]);
             try
             {
                 dgDetdlyaremk.ItemsSource = DetdlyaremDao.GetAll();
             }
             catch
             {
-                
+                MessageBox.Show("Не удалось подключится к базе данных", "Подключение");
+                this.bConnect_Click(new object(), new RoutedEventArgs());
                 try
                 {
                     dgDetdlyaremk.ItemsSource = DetdlyaremDao.GetAll();
@@ -105,7 +103,9 @@ namespace Win
             }
             catch {
 
-               
+                MessageBox.Show("Не удалось подключится к базе данных", "Подключение");
+                this.bConnect_Click(new object(), new RoutedEventArgs());
+                //dgDetdlyarem.ItemsSource = DetdlyaremDao.GetAll();
             }
 
         }
@@ -245,7 +245,12 @@ namespace Win
             }
         }
 
-       
+        private void bConnect_Click(object sender, RoutedEventArgs e)
+        {
+            ConnectWin conn = new ConnectWin();
+            conn.ShowDialog();
+            
+        }
 
         private void HtmlExporterButton_Click(object sender, RoutedEventArgs e)
         {
@@ -305,12 +310,6 @@ namespace Win
             f.ShowDialog();
            // bDetdlyarem = b;
 
-        }
-
-        private void Glavn(object sender, RoutedEventArgs e)
-        {
-            System.Diagnostics.Process.Start("LoginApp.exe");
-            Close();
         }
 
        
